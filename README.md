@@ -61,6 +61,5 @@
 ---
 
 ### :writing_hand: Blog Posts :
-[OmegaWiki](https://omegawiki.modem7.com)
-
-[Wordpress](https://modem7.wordpress.com)
+- [OmegaWiki](https://omegawiki.modem7.com)
+- [Wordpress](https://modem7.wordpress.com)
