@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/modem7/MiscAssets/blob/master/images/coding.png?raw=true" width="500" height="300"/>
+  <img src="https://github.com/modem7/MiscAssets/blob/master/images/ezgif-6-79e26c05da.jpg" width="800" height="200"/>
 </div>
 
 ---
