@@ -24,7 +24,7 @@
 ### :man_technologist: About Me :
 - :telescope: I’m working as a Managed SIEM Infrastructure Engineer and contributing to frontend and backend in my spare time as a hobby.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Creating Technical Content Writing.
 
 - :zap: In my free time, I work on my home lab, enjoy socialising and keep up with the latest tech trends and news.
 
