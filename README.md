@@ -69,6 +69,11 @@
 
 ---
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 ### :writing_hand: Blog Posts :
 - [OmegaWiki](https://omegawiki.modem7.com)
 - [Wordpress](https://modem7.wordpress.com)
