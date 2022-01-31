@@ -46,9 +46,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" title="Putty" alt="Putty" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberrypi" alt="Raspberrypi" width="40" height="40"/>
   <img src="https://github.com/modem7/MiscAssets/blob/master/Icons/droneci.png?raw=true" title="DroneCI" alt="DroneCI" width="40" height="40"/>
+  <img src="https://github.com/modem7/MiscAssets/blob/master/Icons/borgbase.png" title="Borg" alt="Borg" width="40" height="40"/>
+  <img src="https://github.com/modem7/MiscAssets/blob/master/Icons/3CX.png" title="3CX" alt="3CX" width="40" height="40"/>
+  <img src="https://github.com/modem7/MiscAssets/blob/master/Icons/guac.png" title="Guacamole" alt="Guacamole" width="40" height="40"/>
+  <img src="https://github.com/modem7/MiscAssets/blob/master/Icons/snyk.png" title="Snyk" alt="Snyk" width="40" height="40"/>
+  <img src="https://github.com/modem7/MiscAssets/blob/master/Icons/traefik.png" title="Traefik" alt="Traefik" width="40" height="40"/>
+  <img src="https://github.com/modem7/MiscAssets/blob/master/Icons/wekan-logo.png" title="Wekan" alt="Wekan" width="40" height="40"/>
 </div>
 
 ---
