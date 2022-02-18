@@ -144,6 +144,11 @@ JavaScript               1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!-- steam-box start -->
+🎮 Steam playtime leaderboard
+```text
+
+```
+<!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
 
 ---
