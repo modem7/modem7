@@ -26,6 +26,8 @@
 
 - :seedling: Creating Technical Content Writing.
 
+- 💬 Ask me about anything.
+
 - :zap: In my free time, I work on my home lab, enjoy socialising and keep up with the latest tech trends and news.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AlexLaneIT-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexlaneit/)
