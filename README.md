@@ -156,7 +156,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ⚔️ Dota 2                           🕘 1728 hrs 10 mins
 🎮 Creeper World 4                  🕘 351 hrs 40 mins
 🌏 Sid Meier's Civilization V       🕘 226 hrs 21 mins
-🎮 Evil Genius 2                    🕘 190 hrs 13 mins
+🎮 Evil Genius 2                    🕘 191 hrs 13 mins
 🎮 Bloons Monkey City               🕘 177 hrs 0 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
