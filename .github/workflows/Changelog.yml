@@ -2,19 +2,17 @@ name: Changelog Generator
 
 on:
   pull_request:
-    branches:
-      - master
-    types: [opened, reopened, synchronize]
+    types: [ opened ]
 
 jobs:
-  changelog:
-    name: Changelog Generator
+  build:
     runs-on: ubuntu-latest
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
 
-      - name: Run Changelog
-        uses: etcdigital/pull-request-changelog@master
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Run Changelog CI
+        uses: saadmk11/changelog-ci@v1.0.0
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          config_file: .github/config/changelog-ci-config.yaml
