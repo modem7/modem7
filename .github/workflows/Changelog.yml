@@ -1,18 +1,26 @@
-name: Changelog Generator
-
+name: 'pull-request'
 on:
   pull_request:
-    types: [ opened ]
+    types:
+      - opened
+      - synchronize
+      - reopened
+      - ready_for_review
+      - labeled
+      - unlabeled
 
 jobs:
-  build:
+  changelog:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v3
-
-      - name: Run Changelog CI
-        uses: saadmk11/changelog-ci@v1.0.0
+      - uses: actions/checkout@v2
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          config_file: .github/config/changelog-ci-config.yaml
+          # Depending on your needs, you can use a token that will re-trigger workflows
+          # See https://github.com/stefanzweifel/git-auto-commit-action#commits-of-this-action-do-not-trigger-new-workflow-runs
+          token: ${{ secrets.GITHUB_TOKEN }} 
+      - uses: ./
+        with:
+          version: ${{ needs.setup.outputs.version }}
+          newVersionLineNumber: 3
+          activationLabel: 'dependencies'
+          changelogPath: './CHANGELOG.md'
