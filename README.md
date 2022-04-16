@@ -35,46 +35,34 @@
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/centos/centos-original.svg" title="Centos" alt="Centos" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original-wordmark.svg" title="Daebian" alt="Debian " width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg"  title="Github" alt="Github" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberrypi" alt="Raspberrypi" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original-wordmark.svg" title="SSH" alt="SSH" width="40" height="40"/>
-  <img src="https://github.com/modem7/MiscAssets/blob/master/Icons/droneci.png?raw=true" title="DroneCI" alt="DroneCI" width="40" height="40"/>
-  <img src="https://github.com/modem7/MiscAssets/blob/master/Icons/borgbase.png" title="Borg" alt="Borg" width="40" height="40"/>
-  <img src="https://github.com/modem7/MiscAssets/blob/master/Icons/3CX.png" title="3CX" alt="3CX" width="40" height="40"/>
-  <img src="https://github.com/modem7/MiscAssets/blob/master/Icons/guac.png" title="Guacamole" alt="Guacamole" width="40" height="40"/>
-  <img src="https://github.com/modem7/MiscAssets/blob/master/Icons/snyk.png" title="Snyk" alt="Snyk" width="40" height="40"/>
-  <img src="https://github.com/modem7/MiscAssets/blob/master/Icons/traefik.png" title="Traefik" alt="Traefik" width="40" height="40"/>
-  <img src="https://github.com/modem7/MiscAssets/blob/master/Icons/wekan-logo.png" title="Wekan" alt="Wekan" width="40" height="40"/>
-</div>
-=======
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=drone&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Gatsby-informational?style=flat&logo=gatsby&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-GreenSock-informational?style=flat&logo=GreenSock&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=Spring&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-SwiftUI-informational?style=flat&logo=swift&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/OS-Centos-informational?style=flat&logo=centos&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Debian-informational?style=flat&logo=debian&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-RHEL-informational?style=flat&logo=red-hat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Editor-Notepad++-informational?style=flat&logo=notepadplusplus&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+
+
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-ZSH-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Tools-3CX-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Ansible-informational?style=flat&logo=ansible&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Borg-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Drone_CI-informational?style=flat&logo=drone&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Gitlab-informational?style=flat&logo=gitlab&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=jira&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Kanban-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Nginx-informational?style=flat&logo=nginx&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Raspberry_Pi-informational?style=flat&logo=raspberry-pi&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Snyk-informational?style=flat&logo=snyk&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Traefik-informational?style=flat&logoColor=white&color=2bbc8a)
 
 ---
 
