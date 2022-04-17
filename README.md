@@ -35,34 +35,34 @@
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-![](https://img.shields.io/badge/OS-Centos-informational?style=flat&logo=centos&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Debian-informational?style=flat&logo=debian&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-RHEL-informational?style=flat&logo=red-hat&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Centos-informational?style=flat&logo=centos&logoColor=white&color=c70d2c)
+![](https://img.shields.io/badge/OS-Debian-informational?style=flat&logo=debian&logoColor=white&color=c70d2c)
+![](https://img.shields.io/badge/OS-RHEL-informational?style=flat&logo=red-hat&logoColor=white&color=c70d2c)
+![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=c70d2c)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=c70d2c)
 
-![](https://img.shields.io/badge/Editor-Notepad++-informational?style=flat&logo=notepadplusplus&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Notepad++-informational?style=flat&logo=notepadplusplus&logoColor=white&color=c70d2c)
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=c70d2c)
 
 
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-ZSH-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=c70d2c)
+![](https://img.shields.io/badge/Shell-ZSH-informational?style=flat&logo=gnu-bash&logoColor=white&color=c70d2c)
 
-![](https://img.shields.io/badge/Tools-3CX-informational?style=flat&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Ansible-informational?style=flat&logo=ansible&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Borg-informational?style=flat&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Drone_CI-informational?style=flat&logo=drone&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Gitlab-informational?style=flat&logo=gitlab&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=jira&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kanban-informational?style=flat&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Nginx-informational?style=flat&logo=nginx&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Raspberry_Pi-informational?style=flat&logo=raspberry-pi&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Snyk-informational?style=flat&logo=snyk&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Traefik-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-3CX-informational?style=flat&logoColor=white&color=c70d2c)
+![](https://img.shields.io/badge/Tools-Ansible-informational?style=flat&logo=ansible&logoColor=white&color=c70d2c)
+![](https://img.shields.io/badge/Tools-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=c70d2c)
+![](https://img.shields.io/badge/Tools-Borg-informational?style=flat&logoColor=white&color=c70d2c)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=c70d2c)
+![](https://img.shields.io/badge/Tools-Drone_CI-informational?style=flat&logo=drone&logoColor=white&color=c70d2c)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=c70d2c)
+![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=c70d2c)
+![](https://img.shields.io/badge/Tools-Gitlab-informational?style=flat&logo=gitlab&logoColor=white&color=c70d2c)
+![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=jira&logoColor=white&color=c70d2c)
+![](https://img.shields.io/badge/Tools-Kanban-informational?style=flat&logoColor=white&color=c70d2c)
+![](https://img.shields.io/badge/Tools-Nginx-informational?style=flat&logo=nginx&logoColor=white&color=c70d2c)
+![](https://img.shields.io/badge/Tools-Raspberry_Pi-informational?style=flat&logo=raspberry-pi&logoColor=white&color=c70d2c)
+![](https://img.shields.io/badge/Tools-Snyk-informational?style=flat&logo=snyk&logoColor=white&color=c70d2c)
+![](https://img.shields.io/badge/Tools-Traefik-informational?style=flat&logoColor=white&color=c70d2c)
 
 ---
 
