@@ -71,6 +71,8 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=modem7&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 ---
 
 <!--START_SECTION:waka-->
