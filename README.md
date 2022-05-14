@@ -67,24 +67,11 @@
 ---
 
 ### :fire: My Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=modem7&show_icons=true&theme=gotham&count_private=true")
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=modem7&show_icons=true&theme=codeSTACKr&count_private=true")](https://github.com/modem7/modem7)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=modem7&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=modem7&theme=elegant&hide_border=true&date_format=j%20M%5B%20Y%5D&background=DD272700)](https://git.io/streak-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=modem7&show_icons=true&theme=gotham&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=modem7&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
-</a>
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#567](https://github.com/upptime/upptime/issues/567) in [upptime/upptime](https://github.com/upptime/upptime)
-2. 🗣 Commented on [#960](https://github.com/modem7/Status/issues/960) in [modem7/Status](https://github.com/modem7/Status)
-3. 🗣 Commented on [#961](https://github.com/modem7/Status/issues/961) in [modem7/Status](https://github.com/modem7/Status)
-4. ❗️ Opened issue [#567](https://github.com/upptime/upptime/issues/567) in [upptime/upptime](https://github.com/upptime/upptime)
-5. 🗣 Commented on [#960](https://github.com/modem7/Status/issues/960) in [modem7/Status](https://github.com/modem7/Status)
-<!--END_SECTION:activity-->
+[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=modem7&theme=elegant&custom_title=Contribution%20Graph&hide_border=true&bg_color=%20)](https://github.com/modem7/modem7)
 ---
 
 <!--START_SECTION:waka-->
