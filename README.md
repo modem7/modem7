@@ -71,6 +71,13 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=modem7&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=modem7&show_icons=true&theme=gotham&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=modem7&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
+</a>
+
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#567](https://github.com/upptime/upptime/issues/567) in [upptime/upptime](https://github.com/upptime/upptime)
 2. 🗣 Commented on [#960](https://github.com/modem7/Status/issues/960) in [modem7/Status](https://github.com/modem7/Status)
