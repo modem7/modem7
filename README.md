@@ -62,7 +62,7 @@
 ![](https://img.shields.io/badge/Tools-Nginx-informational?style=flat&logo=nginx&logoColor=white&color=981e32)
 ![](https://img.shields.io/badge/Tools-Raspberry_Pi-informational?style=flat&logo=raspberry-pi&logoColor=white&color=981e32)
 ![](https://img.shields.io/badge/Tools-Snyk-informational?style=flat&logo=snyk&logoColor=white&color=981e32)
-![](https://img.shields.io/badge/Tools-Traefik-informational?style=flat&logoColor=white&color=981e32)
+![](https://img.shields.io/badge/Tools-Traefik-informational?style=flat&logo=traefikmesh&logoColor=white&color=981e32)
 
 ---
 
