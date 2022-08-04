@@ -17,3 +17,4 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           SHOW_LOC_CHART: "False"
           LOCALE: "en"
+          SHOW_TOTAL_CODE_TIME: "False"
