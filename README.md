@@ -157,7 +157,7 @@ C                        2 repos             █░░░░░░░░░░�
 <!-- steam-box start -->
 🎮 Steam playtime leaderboard
 ```text
-⚔️ Dota 2                           🕘 1742 hrs 12 mins
+⚔️ Dota 2                           🕘 1745 hrs 9 mins
 🎮 Creeper World 4                  🕘 446 hrs 59 mins
 🌏 Sid Meier's Civilization V       🕘 226 hrs 21 mins
 🎮 Evil Genius 2                    🕘 204 hrs 13 mins
