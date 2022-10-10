@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/alexlaneit/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://omegawiki.modem7.com">
+  <a href="https://modem7.com">
   <img src="https://img.shields.io/badge/Bookstack-blue?style=for-the-badge&logo=BookStack&logoColor=white" alt="Bookstack Badge"/>
   </a>
 </div>
