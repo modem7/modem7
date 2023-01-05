@@ -71,7 +71,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=modem7&theme=elegant&hide_border=true&date_format=j%20M%5B%20Y%5D&background=DD272700)](https://git.io/streak-stats)
 
-[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=modem7&theme=elegant&custom_title=Contribution%20Graph&hide_border=true&bg_color=%20)](https://github.com/modem7/modem7)
+[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=modem7&theme=elegant&custom_title=Contribution%20Graph&hide_border=true&bg_color=%20)](https://github.com/modem7/modem7)
 ---
 
 <!--START_SECTION:waka-->
