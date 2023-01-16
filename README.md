@@ -172,6 +172,11 @@ C                        2 repos             █░░░░░░░░░░�
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Docker Logging Quick Start](https://www.modem7.com/books/managing-docker/page/docker-logging-quick-start)
+- [Limitations and Challenges of Docker Logging](https://www.modem7.com/books/managing-docker/page/limitations-and-challenges-of-docker-logging)
+- [Understanding Logging Strategies](https://www.modem7.com/books/managing-docker/page/understanding-logging-strategies)
+- [Choosing the Delivery Mode of Log Messages From Container to Log Driver](https://www.modem7.com/books/managing-docker/page/choosing-the-delivery-mode-of-log-messages-from-container-to-log-driver)
+- [Configuring the Logging Driver](https://www.modem7.com/books/managing-docker/page/configuring-the-logging-driver)
 <!-- BLOG-POST-LIST:END -->
 - [OmegaWiki](https://omegawiki.modem7.com)
 - [Wordpress](https://modem7.wordpress.com)
