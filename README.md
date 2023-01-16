@@ -170,7 +170,7 @@ C                        2 repos             █░░░░░░░░░░�
 
 ---
 
-### :writing_hand: Blog Posts :
+### :writing_hand: Latest Wiki Posts :
 <!-- BLOG-POST-LIST:START -->
 - [Docker Logging Quick Start](https://www.modem7.com/books/managing-docker/page/docker-logging-quick-start)
 - [Limitations and Challenges of Docker Logging](https://www.modem7.com/books/managing-docker/page/limitations-and-challenges-of-docker-logging)
