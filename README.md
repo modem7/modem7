@@ -171,5 +171,6 @@ C                        2 repos             █░░░░░░░░░░�
 ---
 
 ### :writing_hand: Blog Posts :
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 - [OmegaWiki](https://omegawiki.modem7.com)
 - [Wordpress](https://modem7.wordpress.com)
