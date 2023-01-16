@@ -180,5 +180,5 @@ C                        2 repos             █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:END -->
 
 ### :writing_hand: Personal Websites :
-- [OmegaWiki](https://omegawiki.modem7.com)
+- [OmegaWiki](https://modem7.com)
 - [Wordpress](https://modem7.wordpress.com)
