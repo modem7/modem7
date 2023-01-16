@@ -178,5 +178,7 @@ C                        2 repos             █░░░░░░░░░░�
 - [Choosing the Delivery Mode of Log Messages From Container to Log Driver](https://www.modem7.com/books/managing-docker/page/choosing-the-delivery-mode-of-log-messages-from-container-to-log-driver)
 - [Configuring the Logging Driver](https://www.modem7.com/books/managing-docker/page/configuring-the-logging-driver)
 <!-- BLOG-POST-LIST:END -->
+
+### :writing_hand: Blog Sites :
 - [OmegaWiki](https://omegawiki.modem7.com)
 - [Wordpress](https://modem7.wordpress.com)
