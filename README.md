@@ -169,11 +169,11 @@ Roff                     1 repo              ░░░░░░░░░░░�
 
 ### :writing_hand: Latest Wiki Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Enable Zram on Linux For Better System Performance](https://www.modem7.com/books/general-linux-administration/page/enable-zram-on-linux-for-better-system-performance)
+- [Proxmox ZFS Performance Tuning](https://www.modem7.com/books/proxmox-setup/page/proxmox-zfs-performance-tuning)
+- [Two-node cluster in Proxmox VE with Raspberry Pi as QDevice](https://www.modem7.com/books/proxmox-setup/page/two-node-cluster-in-proxmox-ve-with-raspberry-pi-as-qdevice)
 - [Remove “No valid subscription” warning on Proxmox VE 7](https://www.modem7.com/books/proxmox-setup/page/remove-no-valid-subscription-warning-on-proxmox-ve-7)
 - [Custom cloud-init configs](https://www.modem7.com/books/scripts/page/custom-cloud-init-configs)
-- [Docker Logging Quick Start](https://www.modem7.com/books/managing-docker/page/docker-logging-quick-start)
-- [Limitations and Challenges of Docker Logging](https://www.modem7.com/books/managing-docker/page/limitations-and-challenges-of-docker-logging)
-- [Understanding Logging Strategies](https://www.modem7.com/books/managing-docker/page/understanding-logging-strategies)
 <!-- BLOG-POST-LIST:END -->
 
 ### :writing_hand: Personal Websites :
