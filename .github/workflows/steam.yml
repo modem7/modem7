@@ -23,7 +23,7 @@ jobs:
           go-version: ^1.14
         id: go
       - name: Check out repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - uses: actions/setup-go@v4
       - name: Clone and run steam-box
         run: |-
