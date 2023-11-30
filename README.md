@@ -32,6 +32,8 @@
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AlexLaneIT-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexlaneit/)
 
+- [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/modem7)
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
