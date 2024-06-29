@@ -151,7 +151,7 @@ Roff                     1 repo              ░░░░░░░░░░░�
 🎮 Creeper World 4                  🕘 652 hrs 34 mins
 🌏 Sid Meier's Civilization V       🕘 226 hrs 21 mins
 🎮 Evil Genius 2                    🕘 204 hrs 13 mins
-🎮 HELLDIVERS™ 2                    🕘 181 hrs 58 mins
+🎮 HELLDIVERS™ 2                    🕘 184 hrs 46 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
