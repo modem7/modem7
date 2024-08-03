@@ -111,7 +111,7 @@ Roff                     1 repo              ░░░░░░░░░░░�
 ⚔️ Dota 2                           🕘 2155 hrs 35 mins
 🎮 Creeper World 4                  🕘 658 hrs 21 mins
 🌏 Sid Meier's Civilization V       🕘 226 hrs 21 mins
-🎮 HELLDIVERS™ 2                    🕘 215 hrs 29 mins
+🎮 HELLDIVERS™ 2                    🕘 218 hrs 12 mins
 🎮 Evil Genius 2                    🕘 204 hrs 13 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
