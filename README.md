@@ -152,9 +152,9 @@ Roff                     1 repo              ░░░░░░░░░░░�
 <!-- steam-box start -->
 🎮 Steam playtime leaderboard
 ```text
-⚔️ Dota 2                           🕘 2162 hrs 30 mins
-🎮 Creeper World 4                  🕘 660 hrs 11 mins
-🎮 HELLDIVERS™ 2                    🕘 242 hrs 36 mins
+⚔️ Dota 2                           🕘 2163 hrs 53 mins
+🎮 Creeper World 4                  🕘 660 hrs 46 mins
+🎮 HELLDIVERS™ 2                    🕘 243 hrs 1 mins
 🌏 Sid Meier's Civilization V       🕘 226 hrs 21 mins
 🎮 Evil Genius 2                    🕘 204 hrs 13 mins
 ```
