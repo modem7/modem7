@@ -109,7 +109,7 @@ HCL                      1 repo              ░░░░░░░░░░░�
 🎮 Steam playtime leaderboard
 ```text
 ⚔️ Dota 2                           🕘 2196 hrs 13 mins
-🎮 Creeper World 4                  🕘 681 hrs 44 mins
+🎮 Creeper World 4                  🕘 681 hrs 45 mins
 🎮 HELLDIVERS™ 2                    🕘 287 hrs 11 mins
 🌏 Sid Meier's Civilization V       🕘 226 hrs 21 mins
 🎮 Evil Genius 2                    🕘 204 hrs 13 mins
