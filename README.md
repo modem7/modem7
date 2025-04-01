@@ -149,7 +149,7 @@ HCL                      1 repo              ░░░░░░░░░░░�
 ```text
 ⚔️ Dota 2                           🕘 2255 hrs 59 mins
 🎮 Creeper World 4                  🕘 765 hrs 50 mins
-🎮 HELLDIVERS™ 2                    🕘 482 hrs 55 mins
+🎮 HELLDIVERS™ 2                    🕘 483 hrs 19 mins
 🌏 Sid Meier's Civilization V       🕘 226 hrs 21 mins
 🎮 Evil Genius 2                    🕘 204 hrs 13 mins
 ```
