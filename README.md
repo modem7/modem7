@@ -168,11 +168,11 @@ HCL                      1 repo              ░░░░░░░░░░░�
 
 ### :writing_hand: Latest Wiki Posts :
 <!-- BLOG-POST-LIST:START -->
-- [Enable zRAM on Linux For Better System Performance](https://www.modem7.com/books/general-linux-administration/page/enable-zram-on-linux-for-better-system-performance)
-- [Proxmox ZFS Performance Tuning](https://www.modem7.com/books/proxmox-setup/page/proxmox-zfs-performance-tuning)
-- [Two-node cluster in Proxmox VE with Raspberry Pi as QDevice](https://www.modem7.com/books/proxmox-setup/page/two-node-cluster-in-proxmox-ve-with-raspberry-pi-as-qdevice)
-- [Remove “No valid subscription” warning on Proxmox VE 7](https://www.modem7.com/books/proxmox-setup/page/remove-no-valid-subscription-warning-on-proxmox-ve-7)
-- [Custom cloud-init configs](https://www.modem7.com/books/scripts/page/custom-cloud-init-configs)
+- [150 - The Holder of Numbness](https://www.modem7.com/books/the-holder-series/page/150-the-holder-of-numbness)
+- [149 - Holder of Nightmares](https://www.modem7.com/books/the-holder-series/page/149-holder-of-nightmares)
+- [148 - The Holder of History](https://www.modem7.com/books/the-holder-series/page/148-the-holder-of-history)
+- [147 - The Holder of the Ego](https://www.modem7.com/books/the-holder-series/page/147-the-holder-of-the-ego)
+- [146 - Holder of the Sun](https://www.modem7.com/books/the-holder-series/page/146-holder-of-the-sun)
 <!-- BLOG-POST-LIST:END -->
 
 ### :writing_hand: Personal Websites :
