@@ -8,8 +8,7 @@ on:
 jobs:
   build:
     name: Update-steam-playtime
-    # runs-on: ubuntu-latest
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
     env:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
       STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
