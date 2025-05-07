@@ -166,11 +166,11 @@ HCL                      1 repo              ░░░░░░░░░░░�
 
 ### :writing_hand: Latest Wiki Posts :
 <!-- BLOG-POST-LIST:START -->
-- [150 - The Holder of Numbness](https://www.modem7.com/books/the-holder-series/page/150-the-holder-of-numbness)
-- [149 - Holder of Nightmares](https://www.modem7.com/books/the-holder-series/page/149-holder-of-nightmares)
-- [148 - The Holder of History](https://www.modem7.com/books/the-holder-series/page/148-the-holder-of-history)
-- [147 - The Holder of the Ego](https://www.modem7.com/books/the-holder-series/page/147-the-holder-of-the-ego)
-- [146 - Holder of the Sun](https://www.modem7.com/books/the-holder-series/page/146-holder-of-the-sun)
+- [200 - The Holder of Navigation](https://www.modem7.com/books/the-holder-series/page/200-the-holder-of-navigation)
+- [199 - Holder of Thrill](https://www.modem7.com/books/the-holder-series/page/199-holder-of-thrill)
+- [198 - Holder of Blazes](https://www.modem7.com/books/the-holder-series/page/198-holder-of-blazes)
+- [197 - The Holder of Laughter](https://www.modem7.com/books/the-holder-series/page/197-the-holder-of-laughter)
+- [196 - Holder of Penance](https://www.modem7.com/books/the-holder-series/page/196-holder-of-penance)
 <!-- BLOG-POST-LIST:END -->
 
 ### :writing_hand: Personal Websites :
