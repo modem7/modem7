@@ -121,11 +121,11 @@ HCL                      1 repo              ░░░░░░░░░░░�
 
 ### :writing_hand: Latest Wiki Posts :
 <!-- BLOG-POST-LIST:START -->
-- [200 - The Holder of Navigation](https://www.modem7.com/books/the-holder-series/page/200-the-holder-of-navigation)
-- [199 - Holder of Thrill](https://www.modem7.com/books/the-holder-series/page/199-holder-of-thrill)
-- [198 - Holder of Blazes](https://www.modem7.com/books/the-holder-series/page/198-holder-of-blazes)
-- [197 - The Holder of Laughter](https://www.modem7.com/books/the-holder-series/page/197-the-holder-of-laughter)
-- [196 - Holder of Penance](https://www.modem7.com/books/the-holder-series/page/196-holder-of-penance)
+- [250 - The Holder of The Human Spirit](https://www.modem7.com/books/the-holder-series/page/250-the-holder-of-the-human-spirit)
+- [249 - The Holder of The Blaze](https://www.modem7.com/books/the-holder-series/page/249-the-holder-of-the-blaze)
+- [248 - The Holder of Selfishness](https://www.modem7.com/books/the-holder-series/page/248-the-holder-of-selfishness)
+- [247 - The Holder of Metaphor](https://www.modem7.com/books/the-holder-series/page/247-the-holder-of-metaphor)
+- [246 - The Holder of Jealousy](https://www.modem7.com/books/the-holder-series/page/246-the-holder-of-jealousy)
 <!-- BLOG-POST-LIST:END -->
 
 ### :writing_hand: Personal Websites :
