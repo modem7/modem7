@@ -81,6 +81,8 @@
 
 > 📦 4.8 MB Used in GitHub's Storage 
  > 
+> 🏆 105 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 55 Public Repositories 
@@ -114,16 +116,17 @@ Sunday                   1908 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     6 mins              ████████████████████████░   96.09 % 
+Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  7 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Docker                   7 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  7 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Shell** 
@@ -139,7 +142,7 @@ HCL                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/08/2025 01:46:44 UTC
+ Last Updated on 21/08/2025 01:47:06 UTC
 <!--END_SECTION:waka-->
 
 <!-- steam-box start -->
