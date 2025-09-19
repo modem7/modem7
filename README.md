@@ -116,16 +116,17 @@ Sunday                   1887 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     6 mins              ██████████████████░░░░░░░   71.26 % 
+Bash                     2 mins              ███████░░░░░░░░░░░░░░░░░░   28.74 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  8 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Docker                   8 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  8 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Shell** 
@@ -141,7 +142,7 @@ HCL                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/09/2025 01:47:12 UTC
+ Last Updated on 19/09/2025 01:49:49 UTC
 <!--END_SECTION:waka-->
 
 <!-- steam-box start -->
