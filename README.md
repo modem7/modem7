@@ -81,7 +81,7 @@
 
 > 📦 4.8 MB Used in GitHub's Storage 
  > 
-> 🏆 143 Contributions in the Year 2025
+> 🏆 151 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -89,6 +89,45 @@
  > 
 > 🔑 8 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                2074 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+🌆 Daytime                6015 commits        ███████░░░░░░░░░░░░░░░░░░   26.29 % 
+🌃 Evening                7864 commits        █████████░░░░░░░░░░░░░░░░   34.38 % 
+🌙 Night                  6923 commits        ████████░░░░░░░░░░░░░░░░░   30.26 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   3392 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+Tuesday                  4144 commits        █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
+Wednesday                4615 commits        █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
+Thursday                 2845 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+Friday                   3530 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+Saturday                 2451 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+Sunday                   1899 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Shell** 
 
 ```text
@@ -102,7 +141,7 @@ HCL                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/10/2025 01:48:11 UTC
+ Last Updated on 19/10/2025 01:47:48 UTC
 <!--END_SECTION:waka-->
 
 <!-- steam-box start -->
