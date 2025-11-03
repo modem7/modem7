@@ -94,15 +94,15 @@
 ```text
 Shell                    13 repos            ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
 Dockerfile               11 repos            █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
-HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
 JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
 HCL                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 ```
 
 
 
 
- Last Updated on 02/11/2025 01:49:53 UTC
+ Last Updated on 03/11/2025 01:49:05 UTC
 <!--END_SECTION:waka-->
 
 <!-- steam-box start -->
