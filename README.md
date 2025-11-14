@@ -131,17 +131,17 @@ No Activity Tracked This Week
 **I Mostly Code in Shell** 
 
 ```text
-Shell                    12 repos            ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
-Dockerfile               11 repos            █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
-JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-HCL                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Shell                    12 repos            ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
+Dockerfile               10 repos            █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+HCL                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 ```
 
 
 
 
- Last Updated on 13/11/2025 01:49:34 UTC
+ Last Updated on 14/11/2025 01:50:08 UTC
 <!--END_SECTION:waka-->
 
 <!-- steam-box start -->
