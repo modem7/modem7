@@ -22,7 +22,7 @@
 ---
 
 ### :man_technologist: About Me :
-- :telescope: I’m working as an IT Systems Administrator and creating and contributing to different Github projects in my spare time as a hobby.
+- :telescope: I’m working as a Platform Engineer and creating and contributing to different Github projects in my spare time as a hobby.
 
 - :seedling: Creating Technical Content Writing.
 
