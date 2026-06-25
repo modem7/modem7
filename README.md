@@ -81,7 +81,7 @@
 
 > 📦 4.8 MB Used in GitHub's Storage 
  > 
-> 🏆 80 Contributions in the Year 2026
+> 🏆 81 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -89,70 +89,20 @@
  > 
 > 🔑 8 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1634 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
-🌆 Daytime                4992 commits        ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-🌃 Evening                6503 commits        █████████░░░░░░░░░░░░░░░░   34.74 % 
-🌙 Night                  5592 commits        ███████░░░░░░░░░░░░░░░░░░   29.87 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   2842 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-Tuesday                  3565 commits        █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
-Wednesday                3868 commits        █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
-Thursday                 2428 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-Friday                   2542 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-Saturday                 2018 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
-Sunday                   1458 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/London
-
-💬 Programming Languages: 
-Bash                     2 hrs 44 mins       ███████████████░░░░░░░░░░   58.74 % 
-YAML                     53 mins             █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
-Docker                   17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
-Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
-sh                       14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
-
-🔥 Editors: 
-Notepad++                2 hrs 24 mins       █████████████░░░░░░░░░░░░   51.50 % 
-VS Code                  2 hrs 1 min         ███████████░░░░░░░░░░░░░░   43.29 % 
-Zsh                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
-
-🐱‍💻 Projects: 
-Unknown Project          2 hrs 6 mins        ███████████░░░░░░░░░░░░░░   45.11 % 
-public_scripts           1 hr 52 mins        ██████████░░░░░░░░░░░░░░░   40.34 % 
-christmas-countdown      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
-dotfiles                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
-Docker                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-
-💻 Operating System: 
-Windows                  4 hrs 25 mins       ████████████████████████░   94.79 % 
-Linux                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
-```
-
 **I Mostly Code in Shell** 
 
 ```text
-Shell                    12 repos            ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-Dockerfile               11 repos            █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
-Python                   8 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-HCL                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Shell                    12 repos            ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
+Dockerfile               11 repos            █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
+Python                   8 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+HCL                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 ```
 
 
 
 
- Last Updated on 24/06/2026 01:52:46 UTC
+ Last Updated on 25/06/2026 01:57:34 UTC
 <!--END_SECTION:waka-->
 
 <!-- steam-box start -->
