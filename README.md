@@ -171,11 +171,11 @@ HCL                      1 repo              ░░░░░░░░░░░�
 
 ### :writing_hand: Latest Wiki Posts :
 <!-- BLOG-POST-LIST:START -->
-- [250 - The Holder of The Human Spirit](https://www.modem7.com/books/the-holder-series/page/250-the-holder-of-the-human-spirit)
-- [249 - The Holder of The Blaze](https://www.modem7.com/books/the-holder-series/page/249-the-holder-of-the-blaze)
-- [248 - The Holder of Selfishness](https://www.modem7.com/books/the-holder-series/page/248-the-holder-of-selfishness)
-- [247 - The Holder of Metaphor](https://www.modem7.com/books/the-holder-series/page/247-the-holder-of-metaphor)
-- [246 - The Holder of Jealousy](https://www.modem7.com/books/the-holder-series/page/246-the-holder-of-jealousy)
+- [The *Arr Stack: Prowlarr, TRaSH Guides &amp; Hardlinks](https://www.modem7.com/books/media-managers/page/the-arr-stack-prowlarr-trash-guides-hardlinks)
+- [Radarr: Automated Movie Management](https://www.modem7.com/books/media-managers/page/radarr-automated-movie-management)
+- [Sonarr: Automated TV Show Management](https://www.modem7.com/books/media-managers/page/sonarr-automated-tv-show-management)
+- [Plex Media Server: A Comprehensive Guide](https://www.modem7.com/books/plex-guide/page/plex-media-server-a-comprehensive-guide)
+- [General Linux Administration](https://www.modem7.com/books/general-linux-administration/page/general-linux-administration)
 <!-- BLOG-POST-LIST:END -->
 
 ### :writing_hand: Personal Websites :
