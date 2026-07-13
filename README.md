@@ -340,11 +340,11 @@ HCL                      1 repo              ░░░░░░░░░░░�
 
 ### :writing_hand: Latest Wiki Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Split DNS with Traefik, Cloudflare and a Single Host](https://www.modem7.com/books/traefik/page/split-dns-with-traefik-cloudflare-and-a-single-host)
 - [The *Arr Stack: Prowlarr, TRaSH Guides &amp; Hardlinks](https://www.modem7.com/books/media-managers/page/the-arr-stack-prowlarr-trash-guides-hardlinks)
 - [Radarr: Automated Movie Management](https://www.modem7.com/books/media-managers/page/radarr-automated-movie-management)
 - [Sonarr: Automated TV Show Management](https://www.modem7.com/books/media-managers/page/sonarr-automated-tv-show-management)
 - [Plex Media Server: A Comprehensive Guide](https://www.modem7.com/books/plex-guide/page/plex-media-server-a-comprehensive-guide)
-- [General Linux Administration](https://www.modem7.com/books/general-linux-administration/page/general-linux-administration)
 <!-- BLOG-POST-LIST:END -->
 
 ### :writing_hand: Personal Websites :
