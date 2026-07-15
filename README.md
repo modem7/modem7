@@ -2,6 +2,7 @@
 
 <div align="center">
 
+[![GitHub Followers](https://img.shields.io/github/followers/modem7?style=for-the-badge&color=981e32)](https://github.com/modem7)
 [![OmegaWiki](https://img.shields.io/badge/OmegaWiki-981e32?style=for-the-badge&logo=BookStack&logoColor=white)](https://modem7.com)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/modem7)
 ![Profile Views](https://komarev.com/ghpvc/?username=modem7&style=for-the-badge&color=981e32)
@@ -113,6 +114,8 @@
 | [docker-borgmatic](https://github.com/borgmatic-collective/docker-borgmatic) *(co-maintainer)* | Multiarch Docker container packaging Borg, Borgmatic, and Apprise for automated backup orchestration with container stop/start hook support — part of the official borgmatic-collective. [7.2M+ pulls on Docker Hub](https://hub.docker.com/r/b3vis/borgmatic) | [![Stars](https://img.shields.io/github/stars/borgmatic-collective/docker-borgmatic?style=flat&color=981e32&logo=github&logoColor=white)](https://github.com/borgmatic-collective/docker-borgmatic/stargazers) |
 | [docker-borgmatic](https://github.com/modem7/docker-borgmatic) *(personal fork)* | Self-maintained fork of the above with custom builds and personal modifications running on S6 Overlay, supporting `amd64` and `arm64` | [![Stars](https://img.shields.io/github/stars/modem7/docker-borgmatic?style=flat&color=981e32&logo=github&logoColor=white)](https://github.com/modem7/docker-borgmatic/stargazers) |
 | [cibuildwheel](https://github.com/modem7/cibuildwheel) | CI pipeline that builds Python wheels for packages missing from PyPI, used to supply dependencies for the docker-borgmatic image — packages published to [Cloudsmith](https://cloudsmith.io) | [![Stars](https://img.shields.io/github/stars/modem7/cibuildwheel?style=flat&color=981e32&logo=github&logoColor=white)](https://github.com/modem7/cibuildwheel/stargazers) |
+| [crowdsec-troubleshooter](https://github.com/modem7/crowdsec-troubleshooter) | Unprivileged, run-once Docker tool for diagnosing CrowdSec + Traefik setups — a wellness check, an IP block checker, and an optional live "does blocking actually work" test. No daemon, no docker.sock, no host networking, no capabilities required | [![Stars](https://img.shields.io/github/stars/modem7/crowdsec-troubleshooter?style=flat&color=981e32&logo=github&logoColor=white)](https://github.com/modem7/crowdsec-troubleshooter/stargazers) |
+| [docker-rickroll](https://github.com/modem7/docker-rickroll) | Dockerised Rick Roll | [![Stars](https://img.shields.io/github/stars/modem7/docker-rickroll?style=flat&color=981e32&logo=github&logoColor=white)](https://github.com/modem7/docker-rickroll/stargazers) |
 
 ---
 
