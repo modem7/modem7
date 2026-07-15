@@ -2,7 +2,6 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexlaneit/)
 [![OmegaWiki](https://img.shields.io/badge/OmegaWiki-981e32?style=for-the-badge&logo=BookStack&logoColor=white)](https://modem7.com)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/modem7)
 ![Profile Views](https://komarev.com/ghpvc/?username=modem7&style=for-the-badge&color=981e32)
