@@ -13,7 +13,7 @@
 
 ### :man_technologist: About Me
 
-- :telescope: I’m a Platform Engineer focused on building and managing CI/CD pipelines, internal tooling, and scalable infrastructure. Day to day that means everything from writing automation to bench-testing hardware and making sure software gets from dev to production reliably. Currently that includes ROS 2 (Jazzy) pipeline infrastructure in the subsea/marine robotics space — Debian packaging with bloom and debhelper, Aptly-managed package repositories with GPG signing and environment promotion, and Fast-DDS discovery server configuration for distributed development teams.
+- :telescope: I’m a Platform Engineer focused on building and managing CI/CD pipelines, internal tooling, and scalable infrastructure. Day to day that means everything from writing automation to bench-testing hardware and making sure software gets from dev to production reliably. Currently that includes ROS 2 pipeline infrastructure in the subsea/marine robotics space — Linux packaging with bloom and debhelper, Aptly-managed package repositories with GPG signing and environment promotion, and Fast-DDS discovery server configuration for distributed development teams.
 
 - :wrench: I work across the full stack of infrastructure — containers, virtualisation (ESXi, Proxmox, vSphere), IaC (Ansible, Terraform, Packer), and GitOps — with a strong lean towards automating anything that shouldn’t be done by hand. Prior to my current role I was a Linux Sysadmin, so I’m just as comfortable racking servers and hardening systems as I am writing pipelines.
 
