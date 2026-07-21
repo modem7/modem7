@@ -336,11 +336,11 @@ HCL                      1 repo              ░░░░░░░░░░░�
 
 ### :writing_hand: Latest Wiki Posts :
 <!-- BLOG-POST-LIST:START -->
-- [Split DNS with Traefik, Cloudflare and a Single Host](https://www.modem7.com/books/traefik/page/split-dns-with-traefik-cloudflare-and-a-single-host)
-- [The *Arr Stack: Prowlarr, TRaSH Guides &amp; Hardlinks](https://www.modem7.com/books/media-managers/page/the-arr-stack-prowlarr-trash-guides-hardlinks)
-- [Radarr: Automated Movie Management](https://www.modem7.com/books/media-managers/page/radarr-automated-movie-management)
-- [Sonarr: Automated TV Show Management](https://www.modem7.com/books/media-managers/page/sonarr-automated-tv-show-management)
-- [Plex Media Server: A Comprehensive Guide](https://www.modem7.com/books/plex-guide/page/plex-media-server-a-comprehensive-guide)
+- [Git in CI/CD — GitLab Pipelines, Submodules &amp; Hooks](https://www.modem7.com/books/git-in-cicd/page/git-in-cicd-gitlab-pipelines-submodules-hooks)
+- [Tags, Releases &amp; Versioning](https://www.modem7.com/books/git-tags-releases-versioning/page/tags-releases-versioning)
+- [Fixing Mistakes — Undo, Revert, Reset &amp; Reflog](https://www.modem7.com/books/git-fixing-mistakes/page/fixing-mistakes-undo-revert-reset-reflog)
+- [Rebasing &amp; History Rewriting](https://www.modem7.com/books/git-rebasing-history-rewriting/page/rebasing-history-rewriting)
+- [Branching &amp; Merging Workflows](https://www.modem7.com/books/git-branching-merging/page/branching-merging-workflows)
 <!-- BLOG-POST-LIST:END -->
 
 ### :writing_hand: Personal Websites :
