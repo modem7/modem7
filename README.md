@@ -39,67 +39,67 @@
   <tr>
     <td valign="top" width="33%">
 <strong>Operating Systems</strong><br/>
-<img src="https://img.shields.io/badge/CentOS-informational?style=flat&logo=centos&logoColor=white&color=981e32"/>
-<img src="https://img.shields.io/badge/Debian-informational?style=flat&logo=debian&logoColor=white&color=981e32"/>
-<img src="https://img.shields.io/badge/RHEL-informational?style=flat&logo=red-hat&logoColor=white&color=981e32"/>
-<img src="https://img.shields.io/badge/Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=981e32"/>
-<img src="https://img.shields.io/badge/Windows-informational?style=flat&logo=windows&logoColor=white&color=981e32"/>
+<a href="https://www.centos.org/" target="_blank"><img src="https://img.shields.io/badge/CentOS-informational?style=flat&logo=centos&logoColor=white&color=981e32"/></a>
+<a href="https://www.debian.org/" target="_blank"><img src="https://img.shields.io/badge/Debian-informational?style=flat&logo=debian&logoColor=white&color=981e32"/></a>
+<a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux" target="_blank"><img src="https://img.shields.io/badge/RHEL-informational?style=flat&logo=red-hat&logoColor=white&color=981e32"/></a>
+<a href="https://ubuntu.com/" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=981e32"/></a>
+<a href="https://www.microsoft.com/windows" target="_blank"><img src="https://img.shields.io/badge/Windows-informational?style=flat&logo=windows&logoColor=white&color=981e32"/></a>
 <br/><strong>Shell</strong><br/>
-<img src="https://img.shields.io/badge/Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=981e32"/>
-<img src="https://img.shields.io/badge/ZSH-informational?style=flat&logo=gnu-bash&logoColor=white&color=981e32"/>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.shields.io/badge/Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=981e32"/></a>
+<a href="https://www.zsh.org/" target="_blank"><img src="https://img.shields.io/badge/ZSH-informational?style=flat&logo=gnu-bash&logoColor=white&color=981e32"/></a>
 <br/><strong>Editors</strong><br/>
-<img src="https://img.shields.io/badge/VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=981e32"/>
-<img src="https://img.shields.io/badge/Notepad++-informational?style=flat&logo=notepadplusplus&logoColor=white&color=981e32"/>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=981e32"/></a>
+<a href="https://notepad-plus-plus.org/" target="_blank"><img src="https://img.shields.io/badge/Notepad++-informational?style=flat&logo=notepadplusplus&logoColor=white&color=981e32"/></a>
     </td>
     <td valign="top" width="33%">
 <strong>Containers &amp; CI/CD</strong><br/>
-<img src="https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=981e32"/>
-<img src="https://img.shields.io/badge/Woodpecker%20CI-informational?style=flat&logo=woodpecker-ci&logoColor=white&color=981e32"/>
-<img src="https://img.shields.io/badge/GitLab%20CI-informational?style=flat&logo=gitlab&logoColor=white&color=981e32"/>
-<img src="https://img.shields.io/badge/Traefik-informational?style=flat&logo=traefikmesh&logoColor=white&color=981e32"/>
-<img src="https://img.shields.io/badge/Ansible-informational?style=flat&logo=ansible&logoColor=white&color=981e32"/>
-<img src="https://img.shields.io/badge/Terraform-informational?style=flat&logo=terraform&logoColor=white&color=981e32"/>
-<img src="https://img.shields.io/badge/Nginx-informational?style=flat&logo=nginx&logoColor=white&color=981e32"/>
+<a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=981e32"/></a>
+<a href="https://woodpecker-ci.org/" target="_blank"><img src="https://img.shields.io/badge/Woodpecker%20CI-informational?style=flat&logo=woodpecker-ci&logoColor=white&color=981e32"/></a>
+<a href="https://docs.gitlab.com/ee/ci/" target="_blank"><img src="https://img.shields.io/badge/GitLab%20CI-informational?style=flat&logo=gitlab&logoColor=white&color=981e32"/></a>
+<a href="https://traefik.io/traefik/" target="_blank"><img src="https://img.shields.io/badge/Traefik-informational?style=flat&logo=traefikmesh&logoColor=white&color=981e32"/></a>
+<a href="https://www.ansible.com/" target="_blank"><img src="https://img.shields.io/badge/Ansible-informational?style=flat&logo=ansible&logoColor=white&color=981e32"/></a>
+<a href="https://www.terraform.io/" target="_blank"><img src="https://img.shields.io/badge/Terraform-informational?style=flat&logo=terraform&logoColor=white&color=981e32"/></a>
+<a href="https://nginx.org/" target="_blank"><img src="https://img.shields.io/badge/Nginx-informational?style=flat&logo=nginx&logoColor=white&color=981e32"/></a>
 <br/><strong>Robotics</strong><br/>
-<img src="https://img.shields.io/badge/ROS%202-informational?style=flat&logo=ros&logoColor=white&color=981e32"/>
-<img src="https://img.shields.io/badge/colcon-informational?style=flat&logoColor=white&color=981e32"/>
-<img src="https://img.shields.io/badge/Fast--DDS-informational?style=flat&logoColor=white&color=981e32"/>
-<img src="https://img.shields.io/badge/bloom-informational?style=flat&logoColor=white&color=981e32"/>
-<img src="https://img.shields.io/badge/Aptly-informational?style=flat&logoColor=white&color=981e32"/>
+<a href="https://www.ros.org/" target="_blank"><img src="https://img.shields.io/badge/ROS%202-informational?style=flat&logo=ros&logoColor=white&color=981e32"/></a>
+<a href="https://colcon.readthedocs.io/" target="_blank"><img src="https://img.shields.io/badge/colcon-informational?style=flat&logoColor=white&color=981e32"/></a>
+<a href="https://fast-dds.docs.eprosima.com/" target="_blank"><img src="https://img.shields.io/badge/Fast--DDS-informational?style=flat&logoColor=white&color=981e32"/></a>
+<a href="http://wiki.ros.org/bloom" target="_blank"><img src="https://img.shields.io/badge/bloom-informational?style=flat&logoColor=white&color=981e32"/></a>
+<a href="https://www.aptly.info/" target="_blank"><img src="https://img.shields.io/badge/Aptly-informational?style=flat&logoColor=white&color=981e32"/></a>
 <br/><strong>Virtualisation</strong><br/>
-<img src="https://img.shields.io/badge/ESXi-informational?style=flat&logo=vmware&logoColor=white&color=981e32"/>
-<img src="https://img.shields.io/badge/vSphere-informational?style=flat&logo=vmware&logoColor=white&color=981e32"/>
-<img src="https://img.shields.io/badge/Proxmox-informational?style=flat&logo=proxmox&logoColor=white&color=981e32"/>
-<img src="https://img.shields.io/badge/Citrix-informational?style=flat&logo=citrix&logoColor=white&color=981e32"/>
-<img src="https://img.shields.io/badge/Packer-informational?style=flat&logo=packer&logoColor=white&color=981e32"/>
+<a href="https://www.vmware.com/products/esxi-and-esx.html" target="_blank"><img src="https://img.shields.io/badge/ESXi-informational?style=flat&logo=vmware&logoColor=white&color=981e32"/></a>
+<a href="https://www.vmware.com/products/vsphere.html" target="_blank"><img src="https://img.shields.io/badge/vSphere-informational?style=flat&logo=vmware&logoColor=white&color=981e32"/></a>
+<a href="https://www.proxmox.com/" target="_blank"><img src="https://img.shields.io/badge/Proxmox-informational?style=flat&logo=proxmox&logoColor=white&color=981e32"/></a>
+<a href="https://www.citrix.com/" target="_blank"><img src="https://img.shields.io/badge/Citrix-informational?style=flat&logo=citrix&logoColor=white&color=981e32"/></a>
+<a href="https://www.packer.io/" target="_blank"><img src="https://img.shields.io/badge/Packer-informational?style=flat&logo=packer&logoColor=white&color=981e32"/></a>
 <br/><strong>Source Control</strong><br/>
-<img src="https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=981e32"/>
-<img src="https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=white&color=981e32"/>
-<img src="https://img.shields.io/badge/GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=981e32"/>
+<a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=981e32"/></a>
+<a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=white&color=981e32"/></a>
+<a href="https://about.gitlab.com/" target="_blank"><img src="https://img.shields.io/badge/GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=981e32"/></a>
     </td>
     <td valign="top" width="33%">
 <strong>Hardware &amp; Other</strong><br/>
-<img src="https://img.shields.io/badge/Raspberry%20Pi-informational?style=flat&logo=raspberry-pi&logoColor=white&color=981e32"/>
-<img src="https://img.shields.io/badge/Arduino-informational?style=flat&logo=arduino&logoColor=white&color=981e32"/>
-<img src="https://img.shields.io/badge/BorgBackup-informational?style=flat&logoColor=white&color=981e32"/>
-<img src="https://img.shields.io/badge/ZFS-informational?style=flat&logo=openzfs&logoColor=white&color=981e32"/>
-<img src="https://img.shields.io/badge/Unraid-informational?style=flat&logo=unraid&logoColor=white&color=981e32"/>
-<img src="https://img.shields.io/badge/3CX-informational?style=flat&logoColor=white&color=981e32"/>
+<a href="https://www.raspberrypi.com/" target="_blank"><img src="https://img.shields.io/badge/Raspberry%20Pi-informational?style=flat&logo=raspberry-pi&logoColor=white&color=981e32"/></a>
+<a href="https://www.arduino.cc/" target="_blank"><img src="https://img.shields.io/badge/Arduino-informational?style=flat&logo=arduino&logoColor=white&color=981e32"/></a>
+<a href="https://www.borgbackup.org/" target="_blank"><img src="https://img.shields.io/badge/BorgBackup-informational?style=flat&logoColor=white&color=981e32"/></a>
+<a href="https://openzfs.org/" target="_blank"><img src="https://img.shields.io/badge/ZFS-informational?style=flat&logo=openzfs&logoColor=white&color=981e32"/></a>
+<a href="https://unraid.net/" target="_blank"><img src="https://img.shields.io/badge/Unraid-informational?style=flat&logo=unraid&logoColor=white&color=981e32"/></a>
+<a href="https://www.3cx.com/" target="_blank"><img src="https://img.shields.io/badge/3CX-informational?style=flat&logoColor=white&color=981e32"/></a>
 <br/><strong>Enterprise Systems</strong><br/>
-<img src="https://img.shields.io/badge/Active%20Directory-informational?style=flat&logo=microsoft&logoColor=white&color=981e32"/>
-<img src="https://img.shields.io/badge/Exchange-informational?style=flat&logo=microsoft-exchange&logoColor=white&color=981e32"/>
-<img src="https://img.shields.io/badge/Group%20Policy-informational?style=flat&logo=microsoft&logoColor=white&color=981e32"/>
+<a href="https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview" target="_blank"><img src="https://img.shields.io/badge/Active%20Directory-informational?style=flat&logo=microsoft&logoColor=white&color=981e32"/></a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/exchange/email" target="_blank"><img src="https://img.shields.io/badge/Exchange-informational?style=flat&logo=microsoft-exchange&logoColor=white&color=981e32"/></a>
+<a href="https://learn.microsoft.com/en-us/windows/win32/srvnodes/group-policy" target="_blank"><img src="https://img.shields.io/badge/Group%20Policy-informational?style=flat&logo=microsoft&logoColor=white&color=981e32"/></a>
 <br/><strong>Project Management</strong><br/>
-<img src="https://img.shields.io/badge/Jira-informational?style=flat&logo=jira&logoColor=white&color=981e32"/>
-<img src="https://img.shields.io/badge/Confluence-informational?style=flat&logo=confluence&logoColor=white&color=981e32"/>
-<img src="https://img.shields.io/badge/Kanban-informational?style=flat&logoColor=white&color=981e32"/>
-<img src="https://img.shields.io/badge/Snyk-informational?style=flat&logo=snyk&logoColor=white&color=981e32"/>
-<img src="https://img.shields.io/badge/Cloudsmith-informational?style=flat&logo=cloudsmith&logoColor=white&color=981e32"/>
-<img src="https://img.shields.io/badge/Cloudflare-informational?style=flat&logo=cloudflare&logoColor=white&color=981e32"/>
+<a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://img.shields.io/badge/Jira-informational?style=flat&logo=jira&logoColor=white&color=981e32"/></a>
+<a href="https://www.atlassian.com/software/confluence" target="_blank"><img src="https://img.shields.io/badge/Confluence-informational?style=flat&logo=confluence&logoColor=white&color=981e32"/></a>
+<a href="https://www.atlassian.com/agile/kanban" target="_blank"><img src="https://img.shields.io/badge/Kanban-informational?style=flat&logoColor=white&color=981e32"/></a>
+<a href="https://snyk.io/" target="_blank"><img src="https://img.shields.io/badge/Snyk-informational?style=flat&logo=snyk&logoColor=white&color=981e32"/></a>
+<a href="https://cloudsmith.com/" target="_blank"><img src="https://img.shields.io/badge/Cloudsmith-informational?style=flat&logo=cloudsmith&logoColor=white&color=981e32"/></a>
+<a href="https://www.cloudflare.com/" target="_blank"><img src="https://img.shields.io/badge/Cloudflare-informational?style=flat&logo=cloudflare&logoColor=white&color=981e32"/></a>
 <br/><strong>AI Tooling</strong><br/>
-<img src="https://img.shields.io/badge/Claude-informational?style=flat&logo=anthropic&logoColor=white&color=981e32"/>
-<img src="https://img.shields.io/badge/GitLab%20Duo-informational?style=flat&logo=gitlab&logoColor=white&color=981e32"/>
-<img src="https://img.shields.io/badge/Microsoft%20Copilot-informational?style=flat&logo=microsoft&logoColor=white&color=981e32"/>
+<a href="https://claude.com/" target="_blank"><img src="https://img.shields.io/badge/Claude-informational?style=flat&logo=anthropic&logoColor=white&color=981e32"/></a>
+<a href="https://about.gitlab.com/gitlab-duo/" target="_blank"><img src="https://img.shields.io/badge/GitLab%20Duo-informational?style=flat&logo=gitlab&logoColor=white&color=981e32"/></a>
+<a href="https://copilot.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Copilot-informational?style=flat&logo=microsoft&logoColor=white&color=981e32"/></a>
     </td>
   </tr>
 </table>
@@ -166,7 +166,9 @@ Managed via a [UniFi](https://ui.com) stack — everything named after Lord of t
 | Gimli | USW Pro Max 24 PoE | Core switch — 10GbE SFP+ backbone, SFP+ uplinks to gateway and NVR |
 | Dwalin | USW Flex 2.5G 5 | 2.5G distribution switch |
 | Dain | USW Lite 8 PoE | Access switch |
+| Balin | USW Pro Max 16 PoE | Garage switch |
 | Legolas / Galadriel | U6 Pro ×2 | Wi-Fi APs |
+| Haldir | U6 Pro | Wi-Fi AP — garage coverage |
 | Sauron | UNVR | Network video recorder — SFP+ uplink to core switch |
 
 | Category | Detail |
@@ -210,7 +212,7 @@ The Docker server runs a 50+ container stack across three isolated networks — 
 
 **Monitoring & Management**
 - Grafana · Prometheus · Telegraf
-- Dozzle — Docker log aggregation across 5 hosts
+- Dozzle — Docker log aggregation across multiple hosts
 - Uptime Kuma — uptime monitoring running on an external VPS for genuine outside-in visibility
 - Netdata — real-time performance monitoring on all VMs
 - Monocker — container state alerts via Telegram
