@@ -127,6 +127,8 @@ Everything is managed as code. Cloud-init templates are built with a [custom scr
 
 Network infrastructure managed with Terraform, services provisioned with Ansible.
 
+**Storage, by the drive count:** 19 physical disks spread across the cluster, backup server, and NAS — 4 NVMe, 11 SATA SSD, 4 HDD.
+
 **Samwise** *(primary — 20c / 256GB / ~1TB ZFS | IPMI for out-of-band management)*
 
 | Service | Type | Role |
