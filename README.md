@@ -54,7 +54,7 @@
     <td valign="top" width="33%">
 <strong>Containers &amp; CI/CD</strong><br/>
 <img src="https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=981e32"/>
-<img src="https://img.shields.io/badge/Drone%20CI-informational?style=flat&logo=drone&logoColor=white&color=981e32"/>
+<img src="https://img.shields.io/badge/Woodpecker%20CI-informational?style=flat&logo=woodpecker-ci&logoColor=white&color=981e32"/>
 <img src="https://img.shields.io/badge/GitLab%20CI-informational?style=flat&logo=gitlab&logoColor=white&color=981e32"/>
 <img src="https://img.shields.io/badge/Traefik-informational?style=flat&logo=traefikmesh&logoColor=white&color=981e32"/>
 <img src="https://img.shields.io/badge/Ansible-informational?style=flat&logo=ansible&logoColor=white&color=981e32"/>
@@ -137,9 +137,9 @@ Network infrastructure managed with Terraform, services provisioned with Ansible
 | Docker Server | VM | 50+ container Docker stack — media, productivity, security, and monitoring |
 | NAS | VM | Network attached storage |
 | IaC Server | VM | Ansible / Packer / Terraform (on-demand) |
-| Backup Server | VM | Backup orchestration (on-demand) |
 | HA-Proxy | LXC | SNI-based TCP routing to Proxmox UI + SPICE console proxy |
 | CI/CD Runner | LXC | Self-hosted GitHub Actions runner |
+| Claude Code | VM | Self-hosted agent environment for AI-assisted infra work |
 
 **Frodo** *(secondary — 4c / 32GB / ~100GB ZFS)*
 
@@ -164,9 +164,9 @@ Managed via a [UniFi](https://ui.com) stack — everything named after Lord of t
 |---|---|---|
 | Gandalf | UDM Pro | Gateway / firewall — WireGuard VPN, SFP+ uplink to core switch |
 | Gimli | USW Pro Max 24 PoE | Core switch — 10GbE SFP+ backbone, SFP+ uplinks to gateway and NVR |
-| Faramir | USW Flex 2.5G 5 | 2.5G distribution switch |
-| Morgoth | USW Lite 8 PoE | Access switch |
-| Legolas / Aragorn | U6 Pro ×2 | Wi-Fi APs |
+| Dwalin | USW Flex 2.5G 5 | 2.5G distribution switch |
+| Dain | USW Lite 8 PoE | Access switch |
+| Legolas / Galadriel | U6 Pro ×2 | Wi-Fi APs |
 | Sauron | UNVR | Network video recorder — SFP+ uplink to core switch |
 
 | Category | Detail |
@@ -197,7 +197,7 @@ The Docker server runs a 50+ container stack across three isolated networks — 
 - CrowdSec — collaborative IPS feeding threat intelligence into both a Traefik bouncer and a Cloudflare Worker bouncer, so malicious traffic is blocked at the CDN edge before it reaches the network
 - Cloudflare — WAF rules, firewall policies, and proxied DNS layered on top of CrowdSec blocklists for defence-in-depth at the perimeter
 - Self-hosted password manager with SSO, YubiKey & Duo MFA
-- Docker Socket Proxy — read-only, locked-down Docker API proxy so containers get only the socket access they need
+- Docker Socket Proxy — restricted docker.sock proxy deployed across select fleet hosts, limiting containers to only the Docker API access they need
 
     </td>
     <td valign="top">
@@ -210,7 +210,7 @@ The Docker server runs a 50+ container stack across three isolated networks — 
 
 **Monitoring & Management**
 - Grafana · Prometheus · Telegraf
-- Dozzle — Docker log aggregation across 6 hosts
+- Dozzle — Docker log aggregation across 5 hosts
 - Uptime Kuma — uptime monitoring running on an external VPS for genuine outside-in visibility
 - Netdata — real-time performance monitoring on all VMs
 - Monocker — container state alerts via Telegram
@@ -221,7 +221,7 @@ The Docker server runs a 50+ container stack across three isolated networks — 
 **Backup & CI/CD**
 - [modem7/borgmatic-docker](https://github.com/modem7/docker-borgmatic) — own fork, runs backup orchestration
 - [modem7/docker-autoheal](https://github.com/modem7/docker-autoheal) — own fork, auto-restarts unhealthy containers
-- Drone CI + Runner — GitHub-integrated CI/CD pipelines
+- Woodpecker CI + Runner — GitHub-integrated CI/CD pipelines
 - Photoprism — AI-powered photo management (NVIDIA GPU + TensorFlow)
 
     </td>
