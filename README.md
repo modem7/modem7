@@ -166,9 +166,8 @@ Managed via a [UniFi](https://ui.com) stack — everything named after Lord of t
 | Gimli | USW Pro Max 24 PoE | Core switch — 10GbE SFP+ backbone, SFP+ uplinks to gateway and NVR |
 | Dwalin | USW Flex 2.5G 5 | 2.5G distribution switch |
 | Dain | USW Lite 8 PoE | Access switch |
-| Balin | USW Pro Max 16 PoE | Garage switch |
-| Legolas / Galadriel | U6 Pro ×2 | Wi-Fi APs |
-| Haldir | U6 Pro | Wi-Fi AP — garage coverage |
+| Balin | USW Pro Max 16 PoE | Distribution switch |
+| Legolas / Galadriel / Haldir | U6 Pro ×3 | Wi-Fi APs |
 | Sauron | UNVR | Network video recorder — SFP+ uplink to core switch |
 
 | Category | Detail |
@@ -194,37 +193,37 @@ The Docker server runs a 50+ container stack across three isolated networks — 
 - Request management, stats, and library maintenance tooling
 
 **Security & Access**
-- Traefik — reverse proxy, HTTP/3, Cloudflare TLS
-- Authentik — SSO / OIDC provider for all services
-- CrowdSec — collaborative IPS feeding threat intelligence into both a Traefik bouncer and a Cloudflare Worker bouncer, so malicious traffic is blocked at the CDN edge before it reaches the network
-- Cloudflare — WAF rules, firewall policies, and proxied DNS layered on top of CrowdSec blocklists for defence-in-depth at the perimeter
+- [Traefik](https://traefik.io/traefik/) — reverse proxy, HTTP/3, Cloudflare TLS
+- [Authentik](https://goauthentik.io/) — SSO / OIDC provider for all services
+- [CrowdSec](https://www.crowdsec.net/) — collaborative IPS feeding threat intelligence into both a Traefik bouncer and a Cloudflare Worker bouncer, so malicious traffic is blocked at the CDN edge before it reaches the network
+- [Cloudflare](https://www.cloudflare.com/) — WAF rules, firewall policies, and proxied DNS layered on top of CrowdSec blocklists for defence-in-depth at the perimeter
 - Self-hosted password manager with SSO, YubiKey & Duo MFA
-- Docker Socket Proxy — restricted docker.sock proxy deployed across select fleet hosts, limiting containers to only the Docker API access they need
+- [Docker Socket Proxy](https://github.com/linuxserver/docker-socket-proxy) — restricted docker.sock proxy deployed across select fleet hosts, limiting containers to only the Docker API access they need
 
     </td>
     <td valign="top">
 
 **Productivity**
-- BookStack — wiki / knowledge base ([OmegaWiki](https://modem7.com))
-- Nextcloud — cloud storage (separate VM)
-- Linkwarden — bookmark manager
-- Flatnotes · HastyPaste · XBackbone · Excalidraw
+- [BookStack](https://www.bookstackapp.com/) — wiki / knowledge base ([OmegaWiki](https://modem7.com))
+- [Nextcloud](https://nextcloud.com/) — cloud storage (separate VM)
+- [Linkwarden](https://linkwarden.app/) — bookmark manager
+- [Flatnotes](https://github.com/dullage/flatnotes) · [HastyPaste](https://github.com/enchant97/hasty-paste) · [XBackbone](https://github.com/SergiX44/XBackBone) · [Excalidraw](https://excalidraw.com/)
 
 **Monitoring & Management**
-- Grafana · Prometheus · Telegraf
-- Dozzle — Docker log aggregation across multiple hosts
-- Uptime Kuma — uptime monitoring running on an external VPS for genuine outside-in visibility
-- Netdata — real-time performance monitoring on all VMs
-- Monocker — container state alerts via Telegram
-- Speedtest Tracker
-- PatchMon — patch management across all systems, tracking and reporting pending updates
-- PiAlert — network device tracking and new device detection across VLANs
+- [Grafana](https://grafana.com/) · [Prometheus](https://prometheus.io/) · [Telegraf](https://www.influxdata.com/time-series-platform/telegraf/)
+- [Dozzle](https://dozzle.dev/) — Docker log aggregation across multiple hosts
+- [Uptime Kuma](https://uptime.kuma.pet/) — uptime monitoring running on an external VPS for genuine outside-in visibility
+- [Netdata](https://www.netdata.cloud/) — real-time performance monitoring on all VMs
+- [Monocker](https://github.com/petersem/monocker) — container state alerts via Telegram
+- [Speedtest Tracker](https://github.com/alexjustesen/speedtest-tracker)
+- [PatchMon](https://github.com/PatchMon/PatchMon) — patch management across all systems, tracking and reporting pending updates
+- [PiAlert](https://github.com/pucherot/Pi.Alert) — network device tracking and new device detection across VLANs
 
 **Backup & CI/CD**
 - [modem7/borgmatic-docker](https://github.com/modem7/docker-borgmatic) — own fork, runs backup orchestration
 - [modem7/docker-autoheal](https://github.com/modem7/docker-autoheal) — own fork, auto-restarts unhealthy containers
-- Woodpecker CI + Runner — GitHub-integrated CI/CD pipelines
-- Photoprism — AI-powered photo management (NVIDIA GPU + TensorFlow)
+- [Woodpecker CI](https://woodpecker-ci.org/) + Runner — GitHub-integrated CI/CD pipelines
+- [Photoprism](https://www.photoprism.app/) — AI-powered photo management (NVIDIA GPU + TensorFlow)
 
     </td>
   </tr>
