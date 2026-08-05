@@ -250,7 +250,7 @@ The Docker server runs a 50+ container stack across three isolated networks — 
 ---
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-32%20hrs%2014%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-32%20hrs%2027%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -267,21 +267,21 @@ The Docker server runs a 50+ container stack across three isolated networks — 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2422 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-🌆 Daytime                7070 commits        ██████░░░░░░░░░░░░░░░░░░░   25.85 % 
-🌃 Evening                9414 commits        █████████░░░░░░░░░░░░░░░░   34.42 % 
-🌙 Night                  8448 commits        ████████░░░░░░░░░░░░░░░░░   30.88 % 
+🌞 Morning                2431 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+🌆 Daytime                7099 commits        ██████░░░░░░░░░░░░░░░░░░░   25.86 % 
+🌃 Evening                9454 commits        █████████░░░░░░░░░░░░░░░░   34.43 % 
+🌙 Night                  8471 commits        ████████░░░░░░░░░░░░░░░░░   30.85 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   4276 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
-Tuesday                  4710 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
-Wednesday                5429 commits        █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
-Thursday                 3535 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-Friday                   4046 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
-Saturday                 2913 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
-Sunday                   2445 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+Monday                   4291 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
+Tuesday                  4729 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+Wednesday                5437 commits        █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
+Thursday                 3543 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Friday                   4069 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
+Saturday                 2928 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+Sunday                   2458 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
 ```
 
 
@@ -291,48 +291,48 @@ Sunday                   2445 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-YAML                     12 mins             ██████████████░░░░░░░░░░░   54.18 % 
-sh                       8 mins              █████████░░░░░░░░░░░░░░░░   37.50 % 
-Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+Other                    13 mins             █████████░░░░░░░░░░░░░░░░   37.12 % 
+YAML                     13 mins             █████████░░░░░░░░░░░░░░░░   37.10 % 
+sh                       8 mins              ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 
 🔥 Editors: 
-Zsh                      8 mins              █████████░░░░░░░░░░░░░░░░   37.50 % 
-VS Code                  6 mins              ███████░░░░░░░░░░░░░░░░░░   29.48 % 
-Notepad++                6 mins              ███████░░░░░░░░░░░░░░░░░░   27.22 % 
-Claude Code              1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+Claude Code              13 mins             █████████░░░░░░░░░░░░░░░░   37.12 % 
+Zsh                      8 mins              ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
+VS Code                  7 mins              █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
+Notepad++                6 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
 
 🐱‍💻 Projects: 
-Terminal                 8 mins              █████████░░░░░░░░░░░░░░░░   37.50 % 
-Docker                   6 mins              ███████░░░░░░░░░░░░░░░░░░   29.48 % 
-Unknown Project          5 mins              ██████░░░░░░░░░░░░░░░░░░░   24.70 % 
-homelab-docs             1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-project_work             0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+project                  12 mins             ████████░░░░░░░░░░░░░░░░░   33.38 % 
+Terminal                 8 mins              ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
+Docker                   7 mins              █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
+Unknown Project          5 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+homelab-docs             1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
 
 💻 Operating System: 
-Windows                  14 mins             ████████████████░░░░░░░░░   62.50 % 
-Linux                    8 mins              █████████░░░░░░░░░░░░░░░░   37.50 % 
+Windows                  27 mins             ███████████████████░░░░░░   75.85 % 
+Linux                    8 mins              ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 mins (32.17%)
+⏱ AI Coding Time: 20 mins (56.31%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 1,204,635 Input Tokens, 10,153 Output Tokens
 
-💵 $7.31 Estimated AI Cost This Week
+💵 $11.08 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 0 AI Prompts
+🧠 3 AI Sessions, 10 AI Prompts
 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 0 characters per prompt
-🎯 One-Shot Prompter — average 0 prompts per session
+📚 Verbose Prompter — average 8,864 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -349,7 +349,7 @@ HCL                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/08/2026 04:23:35 UTC
+ Last Updated on 05/08/2026 04:09:46 UTC
 <!--END_SECTION:waka-->
 
 <!-- steam-box start -->
