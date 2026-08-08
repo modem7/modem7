@@ -250,6 +250,8 @@ The Docker server runs a 50+ container stack across three isolated networks — 
 ---
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-32%20hrs%2027%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 4.7 MB Used in GitHub's Storage 
@@ -262,6 +264,78 @@ The Docker server runs a 50+ container stack across three isolated networks — 
  > 
 > 🔑 10 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                2449 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+🌆 Daytime                7117 commits        ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
+🌃 Evening                9528 commits        █████████░░░░░░░░░░░░░░░░   34.50 % 
+🌙 Night                  8526 commits        ████████░░░░░░░░░░░░░░░░░   30.87 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   4332 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+Tuesday                  4745 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+Wednesday                5472 commits        █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
+Thursday                 3575 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+Friday                   4087 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+Saturday                 2941 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+Sunday                   2468 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+Other                    13 mins             █████████░░░░░░░░░░░░░░░░   37.12 % 
+YAML                     13 mins             █████████░░░░░░░░░░░░░░░░   37.10 % 
+sh                       8 mins              ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+
+🔥 Editors: 
+Claude Code              13 mins             █████████░░░░░░░░░░░░░░░░   37.12 % 
+Zsh                      8 mins              ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
+VS Code                  7 mins              █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
+Notepad++                6 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
+
+🐱‍💻 Projects: 
+project                  12 mins             ████████░░░░░░░░░░░░░░░░░   33.38 % 
+Terminal                 8 mins              ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
+Docker                   7 mins              █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
+Unknown Project          5 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+homelab-docs             1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+
+💻 Operating System: 
+Windows                  27 mins             ███████████████████░░░░░░   75.85 % 
+Linux                    8 mins              ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 20 mins (56.31%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 1,204,635 Input Tokens, 10,153 Output Tokens
+
+💵 $11.08 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 10 AI Prompts
+
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📚 Verbose Prompter — average 8,864 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
+```
+
 **I Mostly Code in Shell** 
 
 ```text
@@ -275,7 +349,7 @@ HCL                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 04:00:14 UTC
+ Last Updated on 08/08/2026 03:08:22 UTC
 <!--END_SECTION:waka-->
 
 <!-- steam-box start -->
