@@ -254,34 +254,34 @@ The Docker server runs a 50+ container stack across three isolated networks — 
 
 **🐱 My GitHub Data** 
 
-> 📦 4.7 MB Used in GitHub's Storage 
+> 📦 2.6 MB Used in GitHub's Storage 
  > 
-> 🏆 936 Contributions in the Year 2026
+> 🏆 950 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 59 Public Repositories 
+> 📜 45 Public Repositories 
  > 
 > 🔑 10 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2449 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
-🌆 Daytime                7117 commits        ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
-🌃 Evening                9528 commits        █████████░░░░░░░░░░░░░░░░   34.50 % 
-🌙 Night                  8526 commits        ████████░░░░░░░░░░░░░░░░░   30.87 % 
+🌞 Morning                2421 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+🌆 Daytime                7137 commits        ███████░░░░░░░░░░░░░░░░░░   26.34 % 
+🌃 Evening                9303 commits        █████████░░░░░░░░░░░░░░░░   34.33 % 
+🌙 Night                  8238 commits        ████████░░░░░░░░░░░░░░░░░   30.40 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   4332 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-Tuesday                  4745 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
-Wednesday                5472 commits        █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
-Thursday                 3575 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-Friday                   4087 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-Saturday                 2941 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
-Sunday                   2468 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+Monday                   4291 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
+Tuesday                  4759 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
+Wednesday                5288 commits        █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
+Thursday                 3507 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+Friday                   4033 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+Saturday                 2810 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+Sunday                   2411 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
 ```
 
 
@@ -291,33 +291,28 @@ Sunday                   2468 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Other                    13 mins             █████████░░░░░░░░░░░░░░░░   37.12 % 
-YAML                     13 mins             █████████░░░░░░░░░░░░░░░░   37.10 % 
-sh                       8 mins              ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Other                    13 mins             █████████████░░░░░░░░░░░░   50.01 % 
+YAML                     13 mins             ████████████░░░░░░░░░░░░░   49.99 % 
 
 🔥 Editors: 
-Claude Code              13 mins             █████████░░░░░░░░░░░░░░░░   37.12 % 
-Zsh                      8 mins              ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
-VS Code                  7 mins              █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
-Notepad++                6 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
+Claude Code              13 mins             █████████████░░░░░░░░░░░░   50.01 % 
+VS Code                  7 mins              ███████░░░░░░░░░░░░░░░░░░   28.56 % 
+Notepad++                5 mins              █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
 
 🐱‍💻 Projects: 
-project                  12 mins             ████████░░░░░░░░░░░░░░░░░   33.38 % 
-Terminal                 8 mins              ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
-Docker                   7 mins              █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
-Unknown Project          5 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-homelab-docs             1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+project                  12 mins             ███████████░░░░░░░░░░░░░░   44.98 % 
+Docker                   7 mins              ███████░░░░░░░░░░░░░░░░░░   28.56 % 
+Unknown Project          5 mins              █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+homelab-docs             1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
 
 💻 Operating System: 
-Windows                  27 mins             ███████████████████░░░░░░   75.85 % 
-Linux                    8 mins              ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
+Windows                  26 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 mins (56.31%)
+⏱ AI Coding Time: 20 mins (75.13%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -339,17 +334,17 @@ Sonnet                   0 lines             ░░░░░░░░░░░�
 **I Mostly Code in Shell** 
 
 ```text
-Shell                    19 repos            ████████░░░░░░░░░░░░░░░░░   31.67 % 
-Python                   9 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Dockerfile               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-JavaScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-HCL                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Shell                    21 repos            ██████████░░░░░░░░░░░░░░░   38.18 % 
+Python                   9 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
+HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+HCL                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 ```
 
 
 
 
- Last Updated on 08/08/2026 03:08:22 UTC
+ Last Updated on 09/08/2026 03:12:19 UTC
 <!--END_SECTION:waka-->
 
 <!-- steam-box start -->
