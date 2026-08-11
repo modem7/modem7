@@ -267,21 +267,21 @@ The Docker server runs a 50+ container stack across three isolated networks — 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2429 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-🌆 Daytime                7143 commits        ███████░░░░░░░░░░░░░░░░░░   26.36 % 
-🌃 Evening                9263 commits        █████████░░░░░░░░░░░░░░░░   34.18 % 
-🌙 Night                  8266 commits        ████████░░░░░░░░░░░░░░░░░   30.50 % 
+🌞 Morning                2429 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+🌆 Daytime                7143 commits        ███████░░░░░░░░░░░░░░░░░░   26.32 % 
+🌃 Evening                9305 commits        █████████░░░░░░░░░░░░░░░░   34.28 % 
+🌙 Night                  8266 commits        ████████░░░░░░░░░░░░░░░░░   30.45 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   4233 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-Tuesday                  4769 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
-Wednesday                5310 commits        █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
-Thursday                 3525 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
-Friday                   4037 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-Saturday                 2810 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-Sunday                   2417 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+Monday                   4275 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+Tuesday                  4769 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
+Wednesday                5310 commits        █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
+Thursday                 3525 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
+Friday                   4037 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+Saturday                 2810 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+Sunday                   2417 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
 ```
 
 
@@ -291,28 +291,29 @@ Sunday                   2417 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Other                    13 mins             █████████████░░░░░░░░░░░░   50.01 % 
-YAML                     13 mins             ████████████░░░░░░░░░░░░░   49.99 % 
+Other                    12 mins             ██████████████████████░░░   88.71 % 
+YAML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+sh                       0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
 
 🔥 Editors: 
-Claude Code              13 mins             █████████████░░░░░░░░░░░░   50.01 % 
-VS Code                  7 mins              ███████░░░░░░░░░░░░░░░░░░   28.56 % 
-Notepad++                5 mins              █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+Claude Code              12 mins             ██████████████████████░░░   88.71 % 
+VS Code                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+Zsh                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
 
 🐱‍💻 Projects: 
-project                  12 mins             ███████████░░░░░░░░░░░░░░   44.98 % 
-Docker                   7 mins              ███████░░░░░░░░░░░░░░░░░░   28.56 % 
-Unknown Project          5 mins              █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-homelab-docs             1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+project                  12 mins             ██████████████████████░░░   88.71 % 
+Docker                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+Unknown Project          0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
 
 💻 Operating System: 
-Windows                  26 mins             █████████████████████████   100.00 % 
+Windows                  12 mins             ████████████████████████░   94.58 % 
+Linux                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 mins (75.13%)
+⏱ AI Coding Time: 12 mins (94.58%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -320,14 +321,14 @@ Windows                  26 mins             ███████████�
 
 💵 $11.08 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 10 AI Prompts
+🧠 3 AI Sessions, 12 AI Prompts
 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 8,864 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📚 Verbose Prompter — average 7,394 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -344,7 +345,7 @@ HCL                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/08/2026 03:23:01 UTC
+ Last Updated on 11/08/2026 03:16:18 UTC
 <!--END_SECTION:waka-->
 
 <!-- steam-box start -->
