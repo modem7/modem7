@@ -329,9 +329,9 @@ HCL                      1 repo              ░░░░░░░░░░░�
 🎮 Steam playtime leaderboard
 ```text
 ⚔️ Dota 2                           🕘 2305 hrs 5 mins
-🎮 HELLDIVERS™ 2                    🕘 1138 hrs 58 mins
+🎮 HELLDIVERS™ 2                    🕘 1140 hrs 39 mins
 🎮 Creeper World 4                  🕘 889 hrs 15 mins
-🎮 Overwatch®                       🕘 247 hrs 16 mins
+🎮 Overwatch®                       🕘 247 hrs 59 mins
 🌏 Sid Meier's Civilization V       🕘 226 hrs 21 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
