@@ -267,21 +267,21 @@ The Docker server runs a 50+ container stack across three isolated networks — 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2474 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-🌆 Daytime                7224 commits        ███████░░░░░░░░░░░░░░░░░░   26.29 % 
-🌃 Evening                9429 commits        █████████░░░░░░░░░░░░░░░░   34.31 % 
-🌙 Night                  8354 commits        ████████░░░░░░░░░░░░░░░░░   30.40 % 
+🌞 Morning                2479 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+🌆 Daytime                7227 commits        ███████░░░░░░░░░░░░░░░░░░   26.27 % 
+🌃 Evening                9433 commits        █████████░░░░░░░░░░░░░░░░   34.29 % 
+🌙 Night                  8369 commits        ████████░░░░░░░░░░░░░░░░░   30.42 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   4490 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
-Tuesday                  4837 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
-Wednesday                5314 commits        █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
-Thursday                 3521 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-Friday                   4060 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-Saturday                 2827 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-Sunday                   2432 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+Monday                   4487 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+Tuesday                  4842 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
+Wednesday                5325 commits        █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
+Thursday                 3530 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+Friday                   4062 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+Saturday                 2827 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+Sunday                   2435 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
 ```
 
 
@@ -291,24 +291,27 @@ Sunday                   2432 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-YAML                     4 mins              █████████████████████████   100.00 % 
+YAML                     51 mins             ████████████████████████░   94.92 % 
+Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
 
 🔥 Editors: 
-Notepad++                4 mins              █████████████████████████   100.00 % 
+VS Code                  49 mins             ███████████████████████░░   91.82 % 
+Notepad++                4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
 
 🐱‍💻 Projects: 
-Unknown Project          4 mins              █████████████████████████   100.00 % 
+Docker                   49 mins             ███████████████████████░░   91.82 % 
+Unknown Project          4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
 
 💻 Operating System: 
-Windows                  4 mins              █████████████████████████   100.00 % 
+Windows                  54 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 mins (100.0%)
+⏱ AI Coding Time: 4 mins (8.18%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 0 lines written by AI, 97 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -317,10 +320,10 @@ Windows                  4 mins              ███████████�
 🧠 1 AI Sessions, 0 AI Prompts
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
 📝 Concise Prompter — average 0 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Shell** 
@@ -336,7 +339,7 @@ HCL                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2026 06:01:46 UTC
+ Last Updated on 15/09/2026 06:00:23 UTC
 <!--END_SECTION:waka-->
 
 <!-- steam-box start -->
