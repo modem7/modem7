@@ -250,7 +250,7 @@ The Docker server runs a 50+ container stack across three isolated networks — 
 ---
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-32%20hrs%2034%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-32%20hrs%2043%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -267,21 +267,21 @@ The Docker server runs a 50+ container stack across three isolated networks — 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2476 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-🌆 Daytime                7224 commits        ███████░░░░░░░░░░░░░░░░░░   26.24 % 
-🌃 Evening                9464 commits        █████████░░░░░░░░░░░░░░░░   34.38 % 
-🌙 Night                  8365 commits        ████████░░░░░░░░░░░░░░░░░   30.39 % 
+🌞 Morning                2486 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+🌆 Daytime                7230 commits        ███████░░░░░░░░░░░░░░░░░░   26.21 % 
+🌃 Evening                9478 commits        █████████░░░░░░░░░░░░░░░░   34.35 % 
+🌙 Night                  8395 commits        ████████░░░░░░░░░░░░░░░░░   30.43 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   4521 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-Tuesday                  4849 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
-Wednesday                5317 commits        █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
-Thursday                 3521 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
-Friday                   4060 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-Saturday                 2829 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-Sunday                   2432 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
+Monday                   4521 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+Tuesday                  4859 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
+Wednesday                5339 commits        █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
+Thursday                 3539 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+Friday                   4064 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+Saturday                 2829 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+Sunday                   2438 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
 ```
 
 
@@ -291,41 +291,41 @@ Sunday                   2432 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-YAML                     31 mins             ██████████████████████░░░   86.97 % 
-Other                    2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+Other                    8 mins              ████████████████████░░░░░   80.04 % 
+YAML                     2 mins              █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
 
 🔥 Editors: 
-VS Code                  33 mins             ███████████████████████░░   92.69 % 
-Claude Code              2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+Claude Code              8 mins              ████████████████████░░░░░   80.04 % 
+VS Code                  2 mins              █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
 
 🐱‍💻 Projects: 
-Docker                   33 mins             ███████████████████████░░   92.69 % 
-project                  2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+non-iron-tagreader-st25r 8 mins              ████████████████████░░░░░   78.26 % 
+Docker                   2 mins              █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
+project                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 
 💻 Operating System: 
-Windows                  35 mins             █████████████████████████   100.00 % 
+Windows                  11 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 mins (7.56%)
+⏱ AI Coding Time: 8 mins (80.04%)
 
-✍️ 0 lines written by AI, 3 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
 
-🔤 4,609 Input Tokens, 819 Output Tokens
+🔤 15,878 Input Tokens, 2,933 Output Tokens
 
-💵 $0.03 Estimated AI Cost This Week
+💵 $0.20 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 4 AI Prompts
+🧠 1 AI Sessions, 3 AI Prompts
 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 26,990 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📚 Verbose Prompter — average 3,328 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -342,7 +342,7 @@ HCL                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/09/2026 06:05:11 UTC
+ Last Updated on 23/09/2026 05:46:35 UTC
 <!--END_SECTION:waka-->
 
 <!-- steam-box start -->
