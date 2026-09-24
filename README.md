@@ -250,7 +250,7 @@ The Docker server runs a 50+ container stack across three isolated networks — 
 ---
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-32%20hrs%2043%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%206%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -269,18 +269,18 @@ The Docker server runs a 50+ container stack across three isolated networks — 
 ```text
 🌞 Morning                2486 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
 🌆 Daytime                7230 commits        ███████░░░░░░░░░░░░░░░░░░   26.21 % 
-🌃 Evening                9478 commits        █████████░░░░░░░░░░░░░░░░   34.35 % 
-🌙 Night                  8395 commits        ████████░░░░░░░░░░░░░░░░░   30.43 % 
+🌃 Evening                9472 commits        █████████░░░░░░░░░░░░░░░░   34.34 % 
+🌙 Night                  8395 commits        ████████░░░░░░░░░░░░░░░░░   30.44 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   4521 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-Tuesday                  4859 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
-Wednesday                5339 commits        █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
+Monday                   4515 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+Tuesday                  4859 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
+Wednesday                5339 commits        █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
 Thursday                 3539 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
 Friday                   4064 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-Saturday                 2829 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+Saturday                 2829 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
 Sunday                   2438 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
 ```
 
@@ -291,41 +291,45 @@ Sunday                   2438 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Other                    8 mins              ████████████████████░░░░░   80.04 % 
-YAML                     2 mins              █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
+YAML                     28 mins             ███████████░░░░░░░░░░░░░░   44.98 % 
+Other                    23 mins             █████████░░░░░░░░░░░░░░░░   36.39 % 
+Bash                     11 mins             █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
 
 🔥 Editors: 
-Claude Code              8 mins              ████████████████████░░░░░   80.04 % 
-VS Code                  2 mins              █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
+VS Code                  32 mins             █████████████░░░░░░░░░░░░   50.35 % 
+Claude Code              23 mins             █████████░░░░░░░░░░░░░░░░   36.39 % 
+Notepad++                8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
 
 🐱‍💻 Projects: 
-non-iron-tagreader-st25r 8 mins              ████████████████████░░░░░   78.26 % 
-Docker                   2 mins              █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
-project                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+Docker                   32 mins             █████████████░░░░░░░░░░░░   50.35 % 
+project                  14 mins             ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
+non-iron-tagreader-st25r 8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+public_scripts           5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+Unknown Project          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
 
 💻 Operating System: 
-Windows                  11 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 4 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 mins (80.04%)
+⏱ AI Coding Time: 31 mins (49.65%)
 
-✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 60 lines written by hand (0.0% AI-written)
 
 🔤 15,878 Input Tokens, 2,933 Output Tokens
 
 💵 $0.20 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 3 AI Prompts
+🧠 2 AI Sessions, 4 AI Prompts
 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 3,328 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📚 Verbose Prompter — average 5,276 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -342,7 +346,7 @@ HCL                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/09/2026 05:46:35 UTC
+ Last Updated on 24/09/2026 06:07:00 UTC
 <!--END_SECTION:waka-->
 
 <!-- steam-box start -->
