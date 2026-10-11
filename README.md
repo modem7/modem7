@@ -26,7 +26,7 @@
 - :zombie: **[World Zombie Day](https://worldzombieday.co.uk)**: I've been part of this free annual zombie walk through central London since 2010. It raises money for [The Dead Good Club](https://worldzombieday.co.uk/donate), a not-for-profit. After a break for covid it came back with an official event last year, and this October was the second since.
   - **Co-organiser:** helping with decisions and ideas, and over the years sponsor outreach, route maps and social media.
   - **On the day:** boots on the ground as a steward and a point of contact.
-  - **Tech stack:** I'm the developer behind it, including a [live GPS tracker](https://live.worldzombieday.co.uk) (phones post their location by webhook to a Cloudflare Worker, shown on a web app map), an organiser control page, and GitHub Actions to deploy and run it all.
+  - **Tech stack:** I'm the developer behind it, including a [live GPS tracker](https://live.worldzombieday.co.uk) (OwnTracks on the walk's phones posts locations over HTTP to a Cloudflare Worker, which pushes them over WebSocket to a live web app map), an organiser control page, and GitHub Actions to deploy and run it all.
   - **Third-party event managers:** this year was our first with them, and I gave them technical support.
 
 - :people_holding_hands: I'm active in the open source community: opening PRs, contributing commits, reviewing code, and raising issues and bug reports across projects I use and care about. Not just a consumer.
