@@ -27,7 +27,7 @@
   - **Co-organiser:** helping with decisions and ideas, and over the years sponsor outreach, route maps and social media.
   - **On the day:** boots on the ground as a steward and a point of contact.
   - **Tech stack:** I'm the developer behind it, including a [live GPS tracker](https://live.worldzombieday.co.uk) (OwnTracks on the walk's phones posts locations over HTTP to a Cloudflare Worker, which pushes them over WebSocket to a live web app map), an organiser control page, and GitHub Actions to deploy and run it all.
-  - **Third-party event managers:** this year was our first with them, and I gave them technical support.
+  - **Support:** helping other team members and volunteers with the tech, on the day and beforehand.
 
 - :people_holding_hands: I'm active in the open source community: opening PRs, contributing commits, reviewing code, and raising issues and bug reports across projects I use and care about. Not just a consumer.
 
