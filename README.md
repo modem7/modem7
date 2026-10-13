@@ -258,13 +258,13 @@ The Docker server runs a 50+ container stack across three isolated networks: a m
 ---
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%2010%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%2018%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.6 MB Used in GitHub's Storage 
  > 
-> 🏆 1,577 Contributions in the Year 2026
+> 🏆 1,586 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -275,21 +275,21 @@ The Docker server runs a 50+ container stack across three isolated networks: a m
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2146 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-🌆 Daytime                6308 commits        ███████░░░░░░░░░░░░░░░░░░   26.21 % 
-🌃 Evening                8360 commits        █████████░░░░░░░░░░░░░░░░   34.74 % 
-🌙 Night                  7252 commits        ████████░░░░░░░░░░░░░░░░░   30.13 % 
+🌞 Morning                2235 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+🌆 Daytime                6425 commits        ███████░░░░░░░░░░░░░░░░░░   26.16 % 
+🌃 Evening                8480 commits        █████████░░░░░░░░░░░░░░░░   34.52 % 
+🌙 Night                  7425 commits        ████████░░░░░░░░░░░░░░░░░   30.23 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   4338 commits        █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
-Tuesday                  4417 commits        █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
-Wednesday                4628 commits        █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
-Thursday                 3096 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-Friday                   3117 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-Saturday                 2410 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
-Sunday                   2060 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+Monday                   4488 commits        █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
+Tuesday                  4526 commits        █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
+Wednesday                4728 commits        █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
+Thursday                 3126 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+Friday                   3135 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+Saturday                 2460 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
+Sunday                   2102 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
 ```
 
 
@@ -299,23 +299,47 @@ Sunday                   2060 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-YAML                     13 mins             ████████████████░░░░░░░░░   62.18 % 
-Bash                     8 mins              █████████░░░░░░░░░░░░░░░░   37.82 % 
+YAML                     13 mins             ███████████░░░░░░░░░░░░░░   43.27 % 
+Bash                     8 mins              ███████░░░░░░░░░░░░░░░░░░   26.32 % 
+Other                    6 mins              █████░░░░░░░░░░░░░░░░░░░░   21.34 % 
+JSON                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
 
 🔥 Editors: 
-VS Code                  21 mins             █████████████████████████   100.00 % 
+VS Code                  21 mins             █████████████████░░░░░░░░   69.59 % 
+Claude Code              6 mins              █████░░░░░░░░░░░░░░░░░░░░   21.34 % 
+Notepad++                2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
 
 🐱‍💻 Projects: 
-Docker                   21 mins             █████████████████████████   100.00 % 
+Docker                   21 mins             █████████████████░░░░░░░░   69.59 % 
+zombie-tracker           6 mins              █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
+Unknown Project          2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+project                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 💻 Operating System: 
-Windows                  21 mins             █████████████████████████   100.00 % 
+Windows                  30 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 7 mins (23.48%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 84,141 Input Tokens, 11,328 Output Tokens
+
+💵 $0.60 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 3 AI Prompts
+
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 211 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Shell** 
@@ -331,7 +355,7 @@ HCL                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/10/2026 07:13:28 UTC
+ Last Updated on 13/10/2026 07:41:30 UTC
 <!--END_SECTION:waka-->
 
 <!-- steam-box start -->
