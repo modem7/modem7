@@ -375,11 +375,11 @@ HCL                      1 repo              ░░░░░░░░░░░�
 
 ### :writing_hand: Latest Wiki Posts :
 <!-- BLOG-POST-LIST:START -->
-- [Git in CI/CD — GitLab Pipelines, Submodules &amp; Hooks](https://www.modem7.com/books/git-in-cicd/page/git-in-cicd-gitlab-pipelines-submodules-hooks)
-- [Tags, Releases &amp; Versioning](https://www.modem7.com/books/git-tags-releases-versioning/page/tags-releases-versioning)
-- [Fixing Mistakes — Undo, Revert, Reset &amp; Reflog](https://www.modem7.com/books/git-fixing-mistakes/page/fixing-mistakes-undo-revert-reset-reflog)
-- [Rebasing &amp; History Rewriting](https://www.modem7.com/books/git-rebasing-history-rewriting/page/rebasing-history-rewriting)
-- [Branching &amp; Merging Workflows](https://www.modem7.com/books/git-branching-merging/page/branching-merging-workflows)
+- [The security review surprise](https://www.modem7.com/books/how-i-use-claude/page/the-security-review-surprise)
+- [The homelab that supports it all](https://www.modem7.com/books/how-i-use-claude/page/the-homelab-that-supports-it-all)
+- [How a handoff works](https://www.modem7.com/books/how-i-use-claude/page/how-a-handoff-works)
+- [How I like documents written](https://www.modem7.com/books/how-i-use-claude/page/how-i-like-documents-written)
+- [Where Claude got it wrong, and what I changed](https://www.modem7.com/books/how-i-use-claude/page/where-claude-got-it-wrong-and-what-i-changed)
 <!-- BLOG-POST-LIST:END -->
 
 ### :writing_hand: Personal Websites :
