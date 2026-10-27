@@ -264,7 +264,7 @@ The Docker server runs a 50+ container stack across three isolated networks: a m
 
 > 📦 2.6 MB Used in GitHub's Storage 
  > 
-> 🏆 1,896 Contributions in the Year 2026
+> 🏆 1,906 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -275,21 +275,21 @@ The Docker server runs a 50+ container stack across three isolated networks: a m
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2311 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
-🌆 Daytime                6430 commits        ██████░░░░░░░░░░░░░░░░░░░   25.40 % 
-🌃 Evening                9034 commits        █████████░░░░░░░░░░░░░░░░   35.68 % 
-🌙 Night                  7541 commits        ███████░░░░░░░░░░░░░░░░░░   29.79 % 
+🌞 Morning                2260 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+🌆 Daytime                6417 commits        ██████░░░░░░░░░░░░░░░░░░░   25.41 % 
+🌃 Evening                9096 commits        █████████░░░░░░░░░░░░░░░░   36.02 % 
+🌙 Night                  7478 commits        ███████░░░░░░░░░░░░░░░░░░   29.61 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   5119 commits        █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
-Tuesday                  4484 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-Wednesday                4618 commits        █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
-Thursday                 3235 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
-Friday                   3177 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
-Saturday                 2462 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-Sunday                   2221 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+Monday                   5159 commits        █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
+Tuesday                  4482 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
+Wednesday                4620 commits        █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
+Thursday                 3203 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
+Friday                   3169 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+Saturday                 2435 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+Sunday                   2183 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
 ```
 
 
@@ -299,45 +299,43 @@ Sunday                   2221 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Other                    34 mins             ████████████████████████░   95.88 % 
-YAML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+Other                    19 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Claude Code              28 mins             ████████████████████░░░░░   79.52 % 
-Notepad++                5 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-VS Code                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+Claude Code              13 mins             █████████████████░░░░░░░░   69.17 % 
+Notepad++                5 mins              ████████░░░░░░░░░░░░░░░░░   30.83 % 
 
 🐱‍💻 Projects: 
-project                  17 mins             ████████████░░░░░░░░░░░░░   47.65 % 
-Ubuntu Cloud Template    6 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
-Unknown Project          5 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-public_scripts           5 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-Docker                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+Ubuntu Cloud Template    6 mins              ████████░░░░░░░░░░░░░░░░░   32.55 % 
+Unknown Project          5 mins              ████████░░░░░░░░░░░░░░░░░   30.83 % 
+public_scripts           5 mins              ███████░░░░░░░░░░░░░░░░░░   26.66 % 
+project                  1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+scratch-2026-10-22-3145040 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 
 💻 Operating System: 
-Windows                  36 mins             █████████████████████████   100.00 % 
+Windows                  19 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 31 mins (85.96%)
+⏱ AI Coding Time: 14 mins (73.53%)
 
 ✍️ 0 lines written by AI, 18 lines written by hand (0.0% AI-written)
 
-🔤 182,236 Input Tokens, 47,054 Output Tokens
+🔤 122,629 Input Tokens, 30,587 Output Tokens
 
-💵 $2.59 Estimated AI Cost This Week
+💵 $2.31 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 20 AI Prompts
+🧠 2 AI Sessions, 12 AI Prompts
 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 1,172 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📚 Verbose Prompter — average 1,905 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -354,7 +352,7 @@ HCL                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/10/2026 06:04:27 UTC
+ Last Updated on 27/10/2026 06:16:23 UTC
 <!--END_SECTION:waka-->
 
 <!-- steam-box start -->
