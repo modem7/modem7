@@ -258,13 +258,13 @@ The Docker server runs a 50+ container stack across three isolated networks: a m
 ---
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%2047%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-34%20hrs%2016%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.6 MB Used in GitHub's Storage 
  > 
-> 🏆 1,906 Contributions in the Year 2026
+> 🏆 1,924 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -275,21 +275,21 @@ The Docker server runs a 50+ container stack across three isolated networks: a m
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2260 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-🌆 Daytime                6417 commits        ██████░░░░░░░░░░░░░░░░░░░   25.41 % 
-🌃 Evening                9096 commits        █████████░░░░░░░░░░░░░░░░   36.02 % 
-🌙 Night                  7478 commits        ███████░░░░░░░░░░░░░░░░░░   29.61 % 
+🌞 Morning                2393 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+🌆 Daytime                6631 commits        ██████░░░░░░░░░░░░░░░░░░░   25.23 % 
+🌃 Evening                9417 commits        █████████░░░░░░░░░░░░░░░░   35.83 % 
+🌙 Night                  7842 commits        ███████░░░░░░░░░░░░░░░░░░   29.84 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   5159 commits        █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
-Tuesday                  4482 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
-Wednesday                4620 commits        █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
-Thursday                 3203 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
-Friday                   3169 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
-Saturday                 2435 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-Sunday                   2183 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+Monday                   5485 commits        █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
+Tuesday                  4683 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
+Wednesday                4719 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+Thursday                 3299 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+Friday                   3264 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+Saturday                 2555 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+Sunday                   2278 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
 ```
 
 
@@ -299,43 +299,49 @@ Sunday                   2183 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Other                    19 mins             █████████████████████████   100.00 % 
+Other                    47 mins             ███████████████░░░░░░░░░░   59.18 % 
+YAML                     24 mins             ████████░░░░░░░░░░░░░░░░░   30.23 % 
+sh                       7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 
 🔥 Editors: 
-Claude Code              13 mins             █████████████████░░░░░░░░   69.17 % 
-Notepad++                5 mins              ████████░░░░░░░░░░░░░░░░░   30.83 % 
+Claude Code              41 mins             █████████████░░░░░░░░░░░░   51.83 % 
+VS Code                  25 mins             ████████░░░░░░░░░░░░░░░░░   31.19 % 
+Zsh                      7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+Notepad++                5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
 
 🐱‍💻 Projects: 
-Ubuntu Cloud Template    6 mins              ████████░░░░░░░░░░░░░░░░░   32.55 % 
-Unknown Project          5 mins              ████████░░░░░░░░░░░░░░░░░   30.83 % 
-public_scripts           5 mins              ███████░░░░░░░░░░░░░░░░░░   26.66 % 
-project                  1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
-scratch-2026-10-22-3145040 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+ddtools                  25 mins             ████████░░░░░░░░░░░░░░░░░   32.22 % 
+Docker                   25 mins             ████████░░░░░░░░░░░░░░░░░   31.19 % 
+Terminal                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+Ubuntu Cloud Template    6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+Unknown Project          5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
 
 💻 Operating System: 
-Windows                  19 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 12 mins        ███████████████████████░░   90.37 % 
+Linux                    7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 mins (73.53%)
+⏱ AI Coding Time: 42 mins (52.87%)
 
-✍️ 0 lines written by AI, 18 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 41 lines written by hand (0.0% AI-written)
 
-🔤 122,629 Input Tokens, 30,587 Output Tokens
+🔤 295,211 Input Tokens, 56,428 Output Tokens
 
-💵 $2.31 Estimated AI Cost This Week
+💵 $4.15 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 12 AI Prompts
+🧠 3 AI Sessions, 25 AI Prompts
 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 1,905 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📄 Detailed Prompter — average 1,250 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -352,7 +358,7 @@ HCL                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/10/2026 06:16:23 UTC
+ Last Updated on 28/10/2026 06:54:41 UTC
 <!--END_SECTION:waka-->
 
 <!-- steam-box start -->
