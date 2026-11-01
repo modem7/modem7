@@ -264,7 +264,7 @@ The Docker server runs a 50+ container stack across three isolated networks: a m
 
 > 📦 2.6 MB Used in GitHub's Storage 
  > 
-> 🏆 2,033 Contributions in the Year 2026
+> 🏆 2,043 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -275,21 +275,21 @@ The Docker server runs a 50+ container stack across three isolated networks: a m
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2264 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-🌆 Daytime                6399 commits        ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
-🌃 Evening                9079 commits        █████████░░░░░░░░░░░░░░░░   35.93 % 
-🌙 Night                  7528 commits        ███████░░░░░░░░░░░░░░░░░░   29.79 % 
+🌞 Morning                2369 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+🌆 Daytime                6619 commits        ██████░░░░░░░░░░░░░░░░░░░   25.30 % 
+🌃 Evening                9375 commits        █████████░░░░░░░░░░░░░░░░   35.84 % 
+🌙 Night                  7798 commits        ███████░░░░░░░░░░░░░░░░░░   29.81 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   5127 commits        █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
-Tuesday                  4466 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
-Wednesday                4613 commits        █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
-Thursday                 3214 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-Friday                   3167 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-Saturday                 2506 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-Sunday                   2177 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+Monday                   5279 commits        █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
+Tuesday                  4649 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
+Wednesday                4784 commits        █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
+Thursday                 3311 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+Friday                   3268 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+Saturday                 2627 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+Sunday                   2243 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
 ```
 
 
@@ -299,49 +299,47 @@ Sunday                   2177 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Other                    47 mins             ███████████████░░░░░░░░░░   59.11 % 
-YAML                     24 mins             ████████░░░░░░░░░░░░░░░░░   30.30 % 
-sh                       7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+Other                    28 mins             ████████████░░░░░░░░░░░░░   46.34 % 
+YAML                     24 mins             ██████████░░░░░░░░░░░░░░░   39.77 % 
+sh                       7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 
 🔥 Editors: 
-Claude Code              41 mins             █████████████░░░░░░░░░░░░   51.77 % 
-VS Code                  25 mins             ████████░░░░░░░░░░░░░░░░░   31.27 % 
-Zsh                      7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-Notepad++                5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+Claude Code              28 mins             ████████████░░░░░░░░░░░░░   46.34 % 
+VS Code                  25 mins             ██████████░░░░░░░░░░░░░░░   41.04 % 
+Zsh                      7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
 
 🐱‍💻 Projects: 
-ddtools                  25 mins             ████████░░░░░░░░░░░░░░░░░   32.18 % 
-Docker                   25 mins             ████████░░░░░░░░░░░░░░░░░   31.27 % 
-Terminal                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-Ubuntu Cloud Template    6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-Unknown Project          5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+ddtools                  25 mins             ███████████░░░░░░░░░░░░░░   42.24 % 
+Docker                   25 mins             ██████████░░░░░░░░░░░░░░░   41.04 % 
+Terminal                 7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+project                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+fonts                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 💻 Operating System: 
-Windows                  1 hr 12 mins        ███████████████████████░░   90.38 % 
-Linux                    7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+Windows                  53 mins             ██████████████████████░░░   87.38 % 
+Linux                    7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 42 mins (52.81%)
+⏱ AI Coding Time: 28 mins (46.34%)
 
-✍️ 0 lines written by AI, 41 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 23 lines written by hand (0.0% AI-written)
 
-🔤 295,211 Input Tokens, 56,428 Output Tokens
+🔤 172,582 Input Tokens, 25,841 Output Tokens
 
-💵 $3.69 Estimated AI Cost This Week
+💵 $1.83 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 24 AI Prompts
+🧠 1 AI Sessions, 13 AI Prompts
 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 1,136 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+📄 Detailed Prompter — average 646 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -358,7 +356,7 @@ HCL                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/10/2026 06:54:37 UTC
+ Last Updated on 01/11/2026 07:25:35 UTC
 <!--END_SECTION:waka-->
 
 <!-- steam-box start -->
