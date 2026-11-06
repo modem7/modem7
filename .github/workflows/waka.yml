@@ -15,6 +15,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_LINES_OF_CODE: "False"
           SHOW_PROFILE_VIEWS: "False"
+          WAKATIME_API_URL: "https://wakapi.modem7.com/api"
           SHOW_LOC_CHART: "False"
           LOCALE: "en"
           SHOW_TOTAL_CODE_TIME: "False"
