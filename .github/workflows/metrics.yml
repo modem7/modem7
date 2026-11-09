@@ -20,21 +20,6 @@ jobs:
     name: Render profile SVGs
     runs-on: ubuntu-latest
     steps:
-      - name: Achievements
-        uses: lowlighter/metrics@v3.34
-        with:
-          token: ${{ secrets.GH_TOKEN }}
-          user: modem7
-          template: classic
-          filename: metrics/achievements.svg
-          base: ""
-          config_timezone: Europe/London
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: C
-          plugin_achievements_secrets: yes
-          plugin_achievements_limit: 0
-
       - name: Stats
         uses: lowlighter/metrics@v3.34
         with:
@@ -70,3 +55,33 @@ jobs:
           config_timezone: Europe/London
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+
+  trophies:
+    name: Render trophies
+    needs: metrics
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7.0.1
+
+      - name: Generate trophy SVG
+        # ryo-ma/github-profile-trophy master as of 2026-10-27
+        uses: ryo-ma/github-profile-trophy@43736b50a82fca73c8df1c81abb40aa03519975c
+        with:
+          username: modem7
+          output_path: metrics/trophies.svg
+          theme: onedark
+          token: ${{ secrets.GH_TOKEN }}
+
+      - name: Commit trophy SVG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add metrics/trophies.svg
+          if git diff --cached --quiet; then
+            echo "No trophy changes"
+          else
+            git commit -m ":trophy: update trophies"
+            git pull --rebase
+            git push
+          fi
