@@ -44,18 +44,6 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_ignored: html
 
-      - name: Contribution calendar
-        uses: lowlighter/metrics@v3.34
-        with:
-          token: ${{ secrets.GH_TOKEN }}
-          user: modem7
-          template: classic
-          filename: metrics/calendar.svg
-          base: ""
-          config_timezone: Europe/London
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-
   trophies:
     name: Render trophies
     needs: metrics
