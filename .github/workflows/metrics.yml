@@ -1,0 +1,72 @@
+name: Profile Metrics
+
+# Replaces the public Vercel widgets (github-readme-stats, github-profile-trophy,
+# github-readme-activity-graph), which are disabled. Renders SVGs into this repo.
+
+on:
+  schedule:
+    - cron: '30 1 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-metrics
+  cancel-in-progress: false
+
+jobs:
+  metrics:
+    name: Render profile SVGs
+    runs-on: ubuntu-latest
+    steps:
+      - name: Achievements
+        uses: lowlighter/metrics@v3.34
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          user: modem7
+          template: classic
+          filename: metrics/achievements.svg
+          base: ""
+          config_timezone: Europe/London
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: C
+          plugin_achievements_secrets: yes
+          plugin_achievements_limit: 0
+
+      - name: Stats
+        uses: lowlighter/metrics@v3.34
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          user: modem7
+          template: classic
+          filename: metrics/stats.svg
+          base: repositories, community
+          config_timezone: Europe/London
+
+      - name: Top languages
+        uses: lowlighter/metrics@v3.34
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          user: modem7
+          template: classic
+          filename: metrics/languages.svg
+          base: ""
+          config_timezone: Europe/London
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_limit: 8
+          plugin_languages_ignored: html
+
+      - name: Contribution calendar
+        uses: lowlighter/metrics@v3.34
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          user: modem7
+          template: classic
+          filename: metrics/calendar.svg
+          base: ""
+          config_timezone: Europe/London
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
