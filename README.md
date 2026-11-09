@@ -243,12 +243,8 @@ The Docker server runs a 50+ container stack across three isolated networks: a m
 
 ### :fire: My Stats
 
-<div align="center">
-
 [![GitHub Stats](https://raw.githubusercontent.com/modem7/modem7/master/metrics/stats.svg)](https://github.com/modem7/modem7)
 [![Top Languages](https://raw.githubusercontent.com/modem7/modem7/master/metrics/languages.svg)](https://github.com/modem7/modem7)
-
-</div>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=modem7&theme=elegant&hide_border=true&date_format=j%20M%5B%20Y%5D&background=DD272700)](https://git.io/streak-stats)
 
