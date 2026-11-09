@@ -28,6 +28,7 @@ jobs:
           template: classic
           filename: metrics/stats.svg
           base: repositories, community
+          base_indepth: yes
           config_timezone: Europe/London
 
       - name: Top languages
@@ -41,35 +42,6 @@ jobs:
           config_timezone: Europe/London
           plugin_languages: yes
           plugin_languages_sections: most-used
+          plugin_languages_indepth: yes
           plugin_languages_limit: 8
           plugin_languages_ignored: html
-
-  trophies:
-    name: Render trophies
-    needs: metrics
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v7.0.1
-
-      - name: Generate trophy SVG
-        # ryo-ma/github-profile-trophy master as of 2026-10-27
-        uses: ryo-ma/github-profile-trophy@43736b50a82fca73c8df1c81abb40aa03519975c
-        with:
-          username: modem7
-          output_path: metrics/trophies.svg
-          theme: onedark
-          token: ${{ secrets.GH_TOKEN }}
-
-      - name: Commit trophy SVG
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add metrics/trophies.svg
-          if git diff --cached --quiet; then
-            echo "No trophy changes"
-          else
-            git commit -m ":trophy: update trophies"
-            git pull --rebase
-            git push
-          fi
