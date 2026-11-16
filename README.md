@@ -358,7 +358,7 @@ HCL                      1 repo              ░░░░░░░░░░░�
 ⚔️ Dota 2                           🕘 2321 hrs 22 mins
 🎮 HELLDIVERS™ 2                    🕘 1318 hrs 56 mins
 🎮 Creeper World 4                  🕘 896 hrs 11 mins
-🎮 Overwatch®                       🕘 313 hrs 24 mins
+🎮 Overwatch®                       🕘 313 hrs 32 mins
 🌏 Sid Meier's Civilization V       🕘 226 hrs 21 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
